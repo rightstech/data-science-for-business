@@ -40,7 +40,7 @@ Stručně řečeno, Python vám umožňuje dělat s počítačem skvělé věci,
 
 ## Data v Pythonu
 
-### Seznamy
+### Lists
 
 Seznam v Pythonu je jako kontejner, do kterého můžete umístit více položek v určitém pořadí. Je to trochu jako vytvořit si kontrolní seznam nebo zapisovat věci, které musíte udělat.
 
@@ -51,7 +51,7 @@ ovoce = ['jablko', 'banán', 'pomeranč']
 Položky v seznamu můžete snadno přidávat, odebírat nebo měnit jejich uspořádání.
 
 
-### Slovníky
+### Dictionaries
 
 Představte si slovník jako speciální knihu, kde každá položka má štítek nebo klíč. Je to jako mít malého průvodce, který vám pomůže rychle najít věci.
 
@@ -64,7 +64,7 @@ kontakt =
 
 Pro přístup ke konkrétním informacím používáte klíče jako 'jméno' nebo 'e-mail'. 
 
-## Pandy
+## Pandas
 
 Pandas je knihovna Pythonu, která vám pomůže bez námahy pracovat se strukturovanými daty. Je to jako mít výkonný nástroj pro manipulaci s datovými tabulkami a jejich analýzu, takže úkoly jako čištění a analýza dat jsou mnohem snazší.
 
