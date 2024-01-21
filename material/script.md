@@ -16,14 +16,16 @@ Data has become as important as water or clean air :
 
 * Data is everywhere : anything can be expressed as data - and once it is data, it can be exploited.
 * Data can be collected automatically : Computers and electronic devices (sensors) are constantly producing and sharing data.
-* Data is willingly given out by individuals : Your phone can tell when you are speaking, when you are going, what you are buying.
-* Data is easier and easier to process : Artificial intelligence can extract data from situations that would require too much work by persons (reading text, interpreting speech).
+* Data is willingly given out by individuals : Your phone analyses what you are saying, where you are going, what you are buying.
+* Data is easier and easier to process : Artificial intelligence can nowadays extract data from situations that would previously require too much work by persons (reading text, interpreting speech).
 
 ## Data and human rights
 
 In 2018, it was revealed that Cambridge Analytica, a political consulting firm, harvested data from millions of Facebook users without their consent. This data was then used to create targeted political advertisements, influencing voters' opinions in various elections, including the U.S. presidential election in 2016, and the Brexit referendum in the United Kingdom.
 
 ## A resource that must be protected
+
+In 2018, the fitness application Strava revealed the location of several secret US military bases, by leaking the running statistics of soldiers.
 
 In 2017, the american company Equifax suffered one of the largest data breaches in history, exposing sensitive information, including Social Security numbers, of 147 million people. This information can allow someone to commit bank fraud and identity theft.
 
