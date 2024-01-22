@@ -1,4 +1,117 @@
-# Introduction
+# Human rights and Women in STEM
+What we will talk about today:
+* What are human rights?
+* Where are they written down?
+* How do they apply to women in STEM? 'STEM' means science, engineering, mathematics and engineering
+* Famous women in STEM
+
+## What are human rights?
+
+* Entitlements and freedoms that everyone has by virtue of being human.
+* The main responsibility lies with the State (the government).
+* Others have a role, too.
+
+### Quiz: What are some examples of human rights? 
+
+Please name some human rights that you can think of. Open responses.
+
+## Where are human rights written down?
+
+Human rights can be found written down in a number of different places, for example:
+* International human rights law treaties, which are agreements between countries
+* National laws and policies
+* Implementing legislation or regulations
+
+## Can the same human right be written down in more than once place?
+
+* Absolutely! Often, you can find the same human right in more than one place.
+* The same right can be located in more than one human rights treaty.
+* And at the same time, that right can also be found in more than one national law.
+
+### Example: The right to equality is in many treaties, and also in national laws like a country's constitution and other laws.
+
+## How do human rights apply to women in STEM?
+
+Some great examples of human rights that apply to women in STEM are:
+* the right to equality
+* the right to education
+* the right to science
+* the right to information
+These rights are written down in international human rights treaties, in more than one place sometimes.
+
+### Example: Today, the right to education means that everyone should learn technology skills they need for work.
+
+Girls and women have an equal right to education. So they should learn these important technology skills, too.
+Governments are changing their educational curricula now because they realize two important things:
+1. everyone needs these skills, and 
+2. these skills are for everyone.
+
+## What are some of the main United Nations human rights treaties?
+
+### Universal Declaration of Human Rights (UDHR), 10 December 1948. 
+
+First, in the United Nations, we had the declaration. After World War II, this kicked things off in the modern international human rights system. 
+This was a declaration, not a treaty. But that is now considered law, too. 
+Countries decided they never wanted the atrocities that happened during World War II to happen again.
+Over time, since then, we have gained ten international human rights treaties following this declaration. 
+
+### A few important human rights treaties for our topic, women in STEM
+
+* 1966 - Covenant on Civil and Political Rights, CCPR, and its two Optional Protocols
+* 1966 - International Covenant on Economic, Social and Cultural Rights, CESCR
+* 1989 - Convention on the Rights of the Child, CRC
+* 1979 - Convention on the Elimination of All Forms of Discrimination Against Women, CEDAW
+* … and more
+
+### Quiz: Do the words 'covenant', 'treaty', 'convention' and 'optional protocol' all mean the same thing, when we are talking about human rights treaties?
+
+Are they all treaties?
+Please select an answer:
+* Yes
+* No
+
+### How do I know if my government signed up to guarantee the rights that are in a particular human rights treaty?
+
+You can check here, where the official United Nations treaty ratifications by countries are tracked:
+https://treaties.un.org/Pages/ParticipationStatus.aspx?clang=_en
+The government of Czechia has agreed to implement all of the treaties mentioned above, the CCPR, CESCR, CRC, CEDAW.
+
+## How do we apply the existing human rights treaties to girls and women in STEM?
+
+The human rights and key treaties mentioned apply to girls and women in STEM, too.
+Governments are updating the way they provide education to prepare everyone for today's jobs, and this means girls and women, too.
+Important rights are in the human rights treaties, and, in our national laws, too, like:
+* Equality - You find this right mentioned in many, many places. And see CEDAW articles 2, 10, 11 and 13.
+* Education - in most of the major human rights treaties.
+* Information - for example, International Covenant on Civil and Political Rights, article 19
+* The right to science - see United Nations Covenant on Ecomonic, Social, and Cultural Rights, article 15
+
+## Examples of famous women in information technology
+
+* Ada Lovelace, Mathematician and Writer, 1815 - 1852
+* Grace Hopper, Mathematician, Computer Scientist, Rear Admiral in the United States Navy, 1906 - 1992
+* Joan Clarke, Cryptologist, Code-breaker, 1917 - 1996
+* Kathleen Booth, Mathematician and Computer Scientist, 1922 - 2022
+* Margaret Hamilton, Computer Scientist, Systems Engineer, 1936 -
+
+### ... and some more examples
+* Anita Borg, Computer Scientist, 1949 - 2003
+* Anne L’Huillier, 2023 Nobel Prize in Physics, 1958 - present
+* Shakuntala Devi, Human Computer, 1929 - 2013
+* Katherine Johnson, one of the first African-American women to work as a NASA scientist, 1918 - 2020
+* Adele Goldberg, Computer Scientist, 1945 - Present
+* Megan Smith, Engineer, technologist, 1964 - Present
+* …
+
+## Conclusion: Human rights and women in STEM
+* The rights to equality and education mean that girls and women have the equal right to learn and benefit from technology.
+* This is important for working today.
+* Women have been working and innovating in technology from the beginning.
+* It is normal for girls and women to learn more about programming and technology.
+* Let’s see what you will do with your new skills!
+
+
+# Introduction to data analysis
 
 ## Data everywhere
 
@@ -266,3 +379,16 @@ plot.show()
 ### Online courses
 
 ### Foxconn mentors programme
+
+# Q & A: Mentorship discussion
+Tips from our coaches
+* My education path
+* My brief tips for succeeding in my studies and work
+
+What are your questions for our coaches?
+
+# RightsTech Women on LinkedIn
+https://linkedin.com/company/rightstech-women
+
+# Evaluation form
+Please visit the link that your coaches will show you, to fill out the evaluation form.
