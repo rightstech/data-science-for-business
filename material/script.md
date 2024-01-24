@@ -10,6 +10,7 @@ What we will talk about today:
 * They are entitlements and freedoms that everyone has by virtue of being human.
 * The main responsibility lies with the State (the government).
 * Others have a role, too.
+
 Image: UN Photo / Jean-Marc Ferré. Pictured are countries' flags at the U.N. in Geneva.
 
 ### 1.1Q1 Quiz: What are some examples of human rights? 
@@ -22,6 +23,7 @@ Human rights can be found written down in a number of different places, for exam
 * International human rights law treaties, which are agreements between countries
 * National laws and policies, and
 * Implementing legislation or regulations.
+
 Image: Česká národní rada - Stejnopis Sbírky zákonů, Public Domain. Pictured is the cover of the Czech Constitution.
 
 ## 1.3 Can the same human right be written down in more than once place?
@@ -40,6 +42,7 @@ Some great examples of human rights that apply to women in STEM are:
 * the right to science, and
 * the right to information.
 These rights are written down in international human rights treaties, in more than one place sometimes.
+
 Image: Photo by Thisisengineering, Pexels
 
 ### 1.4.1 Example: Today, the right to education means that everyone should learn technology skills they need for work.
@@ -50,6 +53,7 @@ Governments are changing their educational curricula now because they realize tw
 2. these skills are for everyone.
 
 ## 1.5 What are some of the main United Nations human rights treaties?
+
 Image: UN Photo, Marvin Bolotsky. Pictured is the Commission Chairman, Mrs. Eleanor Roosevelt (right) with Mrs. Hansa Mehta of India at the U.N. Commission on Human Rights, 1949.
 
 ### 1.5.1 Universal Declaration of Human Rights (UDHR), 10 December 1948. 
@@ -97,6 +101,7 @@ Important rights are in the human rights treaties, and, in our national laws, to
 * Joan Clarke, Cryptologist, Code-breaker, 1917 - 1996
 * Kathleen Booth, Mathematician and Computer Scientist, 1922 - 2022
 * Margaret Hamilton, Computer Scientist, Systems Engineer, 1936 -
+
 Image: Science Museum Group, Portrait of Ada King, Countess of Lovelace - Ada Lovelace.
 The painting, circa 1840, is attributed to Alfred Edward Chalon. 
 Ada Lovelace contributed to the first ideas about computing. 
@@ -109,6 +114,7 @@ Ada Lovelace contributed to the first ideas about computing.
 * Adele Goldberg, Computer Scientist, 1945 - Present
 * Megan Smith, Engineer, technologist, 1964 - Present
 * …
+
 Image: NASA / Adam Cuerden. Pictured is Katherine Johnson at NASA in 1966.
 
 ## 1.8 Conclusion: Human rights and women in STEM
