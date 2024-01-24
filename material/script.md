@@ -2,12 +2,12 @@
 What we will talk about today:
 * What are human rights?
 * Where are they written down?
-* How do they apply to women in STEM? 'STEM' means science, engineering, mathematics and engineering
-* Famous women in STEM
+* How do they apply to women in STEM? 'STEM' means science, technology, engineering, and mathematics.
+* We will discuss famous women in STEM.
 
 ## 1.1 What are human rights?
 
-* Entitlements and freedoms that everyone has by virtue of being human.
+* They are entitlements and freedoms that everyone has by virtue of being human.
 * The main responsibility lies with the State (the government).
 * Others have a role, too.
 
@@ -17,10 +17,10 @@ Please name some human rights that you can think of. Open responses.
 
 ## 1.2 Where are human rights written down?
 
-Human rights can be found written down in a number of different places, for example:
+Human rights can be found written down in a number of different places, for example, in:
 * International human rights law treaties, which are agreements between countries
-* National laws and policies
-* Implementing legislation or regulations
+* National laws and policies, and
+* Implementing legislation or regulations.
 
 ## 1.3 Can the same human right be written down in more than once place?
 
@@ -35,8 +35,8 @@ Human rights can be found written down in a number of different places, for exam
 Some great examples of human rights that apply to women in STEM are:
 * the right to equality
 * the right to education
-* the right to science
-* the right to information
+* the right to science, and
+* the right to information.
 These rights are written down in international human rights treaties, in more than one place sometimes.
 
 ### 1.4.1 Example: Today, the right to education means that everyone should learn technology skills they need for work.
@@ -55,7 +55,7 @@ This was a declaration, not a treaty. But that is now considered law, too.
 Countries decided they never wanted the atrocities that happened during World War II to happen again.
 Over time, since then, we have gained ten international human rights treaties following this declaration. 
 
-### 1.5.2 A few important human rights treaties for our topic, women in STEM
+### 1.5.2 A few important human rights treaties for our topic, women in STEM, are:
 
 * 1966 - Covenant on Civil and Political Rights, CCPR, and its two Optional Protocols
 * 1966 - International Covenant on Economic, Social and Cultural Rights, CESCR
@@ -70,7 +70,7 @@ Please select an answer:
 * Yes
 * No
 
-### 1.5Q2 How do I know if my government signed up to guarantee the rights that are in a particular human rights treaty?
+### 1.5.3 How do I know if my government signed up to guarantee the rights that are in a particular human rights treaty?
 
 You can check here, where the official United Nations treaty ratifications by countries are tracked:
 https://treaties.un.org/Pages/ParticipationStatus.aspx?clang=_en
