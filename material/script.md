@@ -372,7 +372,6 @@ import matplotlib.pyplot as plot
 # Creating a Pandas DataFrame
 data = {'Name': ['Alice', 'Bob', 'Charlie'],
         'Age': [25, 30, 35],
-        'City': ['A', 'B', 'C'],
         'Salary': [50000, 60000, 70000]}
 
 dataframe = pandas.DataFrame(data)
@@ -386,7 +385,7 @@ plot.show()
 
 ```
 
-## 4 Exercises
+## 4 Exercises - The Titanic Case Study
 
 ## 5 How to continue learning ?
 
