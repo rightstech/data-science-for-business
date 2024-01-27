@@ -74,14 +74,6 @@ Whenever a host advances to a new slide or fragment, the respective instruction 
 
 ===
 
-### Chalkboard
-
-Chalkboard drawings and handwritten slide annotations of a host are broadcasted to all connected attendees of the seminar and their presentation will also display them.
-
-This requires the `chalkboard` plugin.
-
-===
-
 ### Online polls
 
 With the `poll` plugin you can add instant polls like the one below to your slides.
