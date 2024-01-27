@@ -1,5 +1,7 @@
 # 1 Human rights and Women in STEM
+
 What we will talk about today:
+
 * What are human rights?
 * Where are they written down?
 * How do they apply to women in STEM? 'STEM' means science, technology, engineering, and mathematics.
@@ -20,6 +22,7 @@ Please name some human rights that you can think of. Open responses.
 ## 1.2 Where are human rights written down?
 
 Human rights can be found written down in a number of different places, for example, in:
+
 * International human rights law treaties, which are agreements between countries
 * National laws and policies, and
 * Implementing legislation or regulations.
@@ -92,7 +95,7 @@ Important rights are in the human rights treaties, and, in our national laws, to
 * Equality - You find this right mentioned in many, many places. And see CEDAW articles 2, 10, 11 and 13.
 * Education - in most of the major human rights treaties.
 * Information - for example, International Covenant on Civil and Political Rights, article 19
-* The right to science - see United Nations Covenant on Ecomonic, Social, and Cultural Rights, article 15
+* The right to science - see United Nations Covenant on Economic, Social, and Cultural Rights, article 15
 
 ## 1.7 Examples of famous women in information technology
 
@@ -107,6 +110,7 @@ The painting, circa 1840, is attributed to Alfred Edward Chalon.
 Ada Lovelace contributed to the first ideas about computing. 
 
 ### 1.7.1 ... and some more examples
+
 * Anita Borg, Computer Scientist, 1949 - 2003
 * Anne L’Huillier, 2023 Nobel Prize in Physics, 1958 - present
 * Shakuntala Devi, Human Computer, 1929 - 2013
