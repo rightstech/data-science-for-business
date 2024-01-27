@@ -288,17 +288,15 @@ Pro přístup ke konkrétním informacím používáte klíče jako 'name' nebo 
 
 ### 3.3Q1 Jakou metodu by použil seznam v Pythonu, kdyby chtěl pozvat nového přítele, aby se připojil ke skupině?
 
-1- party_list.extend(new_friend)
-
-2- party_list.import(new_friend)
-
-3- party_list.append(new_friend)
+1. party_list.extend(new_friend)
+2. party_list.import(new_friend)
+3. party_list.append(new_friend)
 
 ### 3.3Q2 Kdyby byl slovník Pythonu knihou, čemu by byly ekvivalentní klíče?
 
-1 - Názvy kapitol
-2 - Čísla stránek
-3 - Obsah
+1. Názvy kapitol
+2. Čísla stránek
+3. Obsah
 
 ## 3.4 Knihovny v Pythonu
 
