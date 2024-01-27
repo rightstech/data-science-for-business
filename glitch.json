@@ -1,0 +1,7 @@
+{
+    "install": "chmod 700 init.sh && ./init.sh",
+    "start": "./reveal-microservice --server.port=3000",
+    "watch": {
+      "throttle": 5000
+    }
+  }
