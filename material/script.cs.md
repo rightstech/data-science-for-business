@@ -1,5 +1,7 @@
 # 1 Lidská práva a ženy v STEM
+
 O čem si dnes povíme:
+
 * Jaká jsou lidská práva?
 * Kde jsou zapsány?
 * Jak se vztahují na ženy ve STEM? „STEM“ znamená vědu, technologii, inženýrství a matematiku.
@@ -20,6 +22,7 @@ Vyjmenujte prosím některá lidská práva, která vás napadají. Otevřené o
 ## 1.2 Kde jsou sepsána lidská práva?
 
 Lidská práva lze nalézt sepsaná na mnoha různých místech, například v:
+
 * Mezinárodních smlouvách o ochraně lidských práv, což jsou dohody mezi zeměmi
 * Národních zákonech a zásadách 
 * Prováděcích právních předpisech nebo nařízeních
@@ -75,6 +78,7 @@ Postupem času jsme po této deklaraci získali deset mezinárodních smluv o li
 
 Jsou to všechno smlouvy?
 Vyberte prosím odpověď:
+
 * Ano
 * Ne
 
@@ -115,7 +119,7 @@ Ada Lovelace přispěla k prvním nápadům o práci na počítači.
 * Katherine Johnson, jedna z prvních Afroameričanek, které pracovaly jako vědkyně NASA, 1918 - 2020
 * Adele Goldberg, počítačová vědkyně, 1945 – současnost
 * Megan Smith, inženýrka, 1964 – současnost
-*…
+* …
 
 Obrázek: NASA / Adam Cuerden. Na obrázku je Katherine Johnson v NASA v roce 1966.
 
