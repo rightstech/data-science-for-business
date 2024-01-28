@@ -1,20 +1,14 @@
 
-# 1 Lidská práva a ženy v STEM
+## 1 Lidská práva a ženy v STEM
 
-O čem si dnes povíme:
-
-* Jaká jsou lidská práva?
-* Kde jsou zapsány?
-* Jak se vztahují na ženy ve STEM? „STEM“ znamená vědu, technologii, inženýrství a matematiku.
-* Probereme slavné ženy ve STEM.
+<img alt="Advancing Women in Tech Leadership" src="/images/visual.png" width="80%">
 
 ---
 
 ## 1.1 Co jsou lidská práva?
 
-* Jsou to práva a svobody, které má každý na základě toho, že je člověk.
-* Hlavní odpovědnost nese stát (vláda).
-* Ostatní mají také svou roli.
+![UN Declaration](/images/1_1_UN7338882_78d_.jpg)
+
 
 Obrázek: Foto OSN / Jean-Marc Ferré. Na snímku jsou vlajky zemí v OSN v Ženevě.
 
@@ -28,11 +22,7 @@ Vyjmenujte prosím některá lidská práva, která vás napadají. Otevřené o
 
 ## 1.2 Kde jsou sepsána lidská práva?
 
-Lidská práva lze nalézt sepsaná na mnoha různých místech, například v:
-
-* Mezinárodních smlouvách o ochraně lidských práv, což jsou dohody mezi zeměmi
-* Národních zákonech a zásadách 
-* Prováděcích právních předpisech nebo nařízeních
+![Czech Constitution](/images/1_2_Sbírka_zákonů_1993_částka_001_strana_01.png)
 
 Obrázek: Česká národní rada - Stejnopis Sbírky zákonů, Public Domain. Na snímku obálka české ústavy.
 
@@ -46,18 +36,17 @@ Obrázek: Česká národní rada - Stejnopis Sbírky zákonů, Public Domain. Na
 
 ---
 
-### 1.3.1 Příklad: Právo na rovnost je obsaženo v mnoha smlouvách a také v národních zákonech, jako je ústava země a další zákony.
+### 1.3.1 Příklad
+
+<div class="r-fit-text">Právo na rovnost je obsaženo<br>
+ v mnoha smlouvách a také v národních zákonech,<br>
+ jako je ústava země a další zákony.</div>
 
 ===
 
-## 1.4 Jak se lidská práva vztahují na ženy ve STEM?
+### 1.4 Jak se lidská práva vztahují na ženy ve STEM?
 
-Některé skvělé příklady lidských práv, které se vztahují na ženy ve STEM, jsou:
-* právo na rovnost
-* právo na vzdělání
-* právo na vědu
-* právo na informace
-Tato práva jsou zapsána v mezinárodních smlouvách o lidských právech, někdy na více místech.
+![STEM](/images/1_4_pexels-thisisengineering-3861457.jpg)
 
 Obrázek: Fotografie od Thisisengineering, Pexels
 
@@ -73,6 +62,8 @@ Vlády nyní mění své vzdělávací osnovy, protože si uvědomují dvě důl
 ---
 
 ## 1.5 Jaké jsou některé z hlavních smluv OSN o lidských právech?
+
+![Human Rights Treaties](/images/1_5_UN7499124_aa9_.jpg)
 
 Obrázek: Fotografie OSN, Marvin Bolotsky. Na snímku předsedkyně komise, paní Eleanor Rooseveltová (vpravo) s paní Hansou Mehtou z Indie v Komisi OSN pro lidská práva, 1949.
 
@@ -102,8 +93,24 @@ Postupem času jsme po této deklaraci získali deset mezinárodních smluv o li
 Jsou to všechno smlouvy?
 Vyberte prosím odpověď:
 
-* Ano
-* Ne
+<div class="poll" data-poll="treaties">
+	<button data-value="ano">Ano</button>
+	<br>
+	<button data-value="ne">Ne</button>
+	<br>
+</div>
+<p style="font-size:24px;color:gray;">Responses: <span class="voters" data-poll="treaties">0</span></p>
+
+---
+
+## 1.5Q1 Kvíz
+
+<div style="position: relative;height:480px!important;width:1280px!important;">
+<canvas data-chart="bar" data-poll="treaties">
+, Ano, Ne
+, 0, 0
+</canvas>
+</div>
 
 ---
 
@@ -130,11 +137,9 @@ Důležitá práva jsou ve smlouvách o lidských právech a také v našich ná
 
 ## 1.7 Příklady slavných žen v informačních technologiích
 
+![Ada Lovelace](./images/1_7_Ada_Lovelace_portrait_2439x3504px.jpg)
+
 * Ada Lovelace, matematička a spisovatelka, 1815 - 1852
-* Grace Hopper, matematička, počítačová vědkyně, kontraadmirálka v námořnictvu Spojených států, 1906 - 1992
-* Joan Clarke, kryptoložka, lamačka kódů, 1917 - 1996
-* Kathleen Booth, matematička a počítačová vědkyně, 1922 - 2022
-* Margaret Hamilton, počítačová vědkyně a systémová inženýrka, 1936 -
 
 Obrázek: Science Museum Group, Portrét Ady Kingové, hraběnky z Lovelace - Ada Lovelace.
 Obraz z roku 1840 je připisován Alfredu Edwardu Chalonovi.
@@ -144,13 +149,10 @@ Ada Lovelace přispěla k prvním nápadům o práci na počítači.
 
 ### 1.7.1 ... a několik dalších příkladů
 
-* Anita Borg, počítačová vědkyně, 1949 - 2003
-* Anne L’Huillier, Nobelova cena za fyziku 2023, 1958 – dosud
-* Shakuntala Devi, Lidský počítač, 1929 - 2013
+![Katherine Johnson](/images/1_7_1_Katherine_Johnson_at_NASA,_in_1966_3173x4000px.jpg)
+
+
 * Katherine Johnson, jedna z prvních Afroameričanek, které pracovaly jako vědkyně NASA, 1918 - 2020
-* Adele Goldberg, počítačová vědkyně, 1945 – současnost
-* Megan Smith, inženýrka, 1964 – současnost
-* …
 
 Obrázek: NASA / Adam Cuerden. Na obrázku je Katherine Johnson v NASA v roce 1966.
 
@@ -186,43 +188,49 @@ Obrázek: NASA / Adam Cuerden. Na obrázku je Katherine Johnson v NASA v roce 19
 
 ## 2.1 Data všude
 
-Data označují nezpracovaná fakta, čísla nebo informace, které lze zaznamenat, uložit a zpracovat. Může mít různé formy, včetně čísel, textu, obrázků, zvuku a dalších. Data lze shromažďovat z různých zdrojů a slouží jako základ pro vytváření náhledů, rozhodování a pochopení vzorců v různých kontextech.
-
-* Mohou to být údaje o přírodě: populace zvířat, povrch lesů, jak daleko jsou hvězdy v naší galaxii.
-
-* Mohou to být údaje o společnosti: průměrný věk a pohlaví populace, kolik osob je zaměstnaných nebo nezaměstnaných.
-
-* Mohou to být údaje o vás: co rádi nakupujete, kde bydlíte, jaké jsou vaše politické nebo náboženské názory.
+![NASA Satellite collecting data](/images/2_1_GPS_Satellite_NASA_art-iif.jpg)
 
 Ne všechna data jsou veřejná. Ne všechna data by měla být shromažďována.
 
-Data se stala stejně důležitá jako voda nebo čistý vzduch:
+Image credit : Wikimedia project.
 
-* Data jsou všude: cokoli lze vyjádřit jako data – a jakmile to jsou data, lze je využít.
-* Data lze shromažďovat automaticky: Počítače a elektronická zařízení (senzory) neustále produkují a sdílejí data.
-* Údaje jsou dobrovolně poskytovány jednotlivci: Váš telefon analyzuje, co říkáte, kam jdete, co kupujete.
-* Data se snadněji a snadněji zpracovávají: Umělá inteligence dnes dokáže extrahovat data ze situací, které dříve vyžadovaly příliš mnoho práce osob (čtení textu, tlumočení řeči).
+---
+
+## 2.1 Data všude (2)
+
+![Smartphone](/images/2_1_Smartphone-mobile-hand.jpg)
+
+Image credit : Wikimedia project.
 
 ---
 
 ## 2.2 Data a lidská práva
 
-V roce 2018 vyšlo najevo, že Cambridge Analytica, politická poradenská firma, sklidila data od milionů uživatelů Facebooku bez jejich souhlasu. Tato data pak byla použita k vytváření cílených politických reklam, ovlivňujících názory voličů v různých volbách, včetně prezidentských voleb v USA v roce 2016 a referenda o Brexitu ve Spojeném království.
+![Cambridge Analytica](/images/2_2_Brexit_Trump.jpg)
+
+Image credit : Wikimedia project.
 
 ---
 
 ## 2.3 Zdroj, který musí být chráněn
 
-V roce 2018 fitness aplikace Strava odhalila umístění několika tajných amerických vojenských základen tím, že unikly průběžné statistiky vojáků.
+![Strava Data Leak](/images/2_3_strava.png)
 
-V roce 2017 utrpěla americká společnost Equifax jeden z největších úniků dat v historii a odhalila citlivé informace, včetně čísel sociálního zabezpečení, o 147 milionech lidí. Tyto informace mohou někomu umožnit spáchat bankovní podvod a krádež identity.
+Image credit : Wikimedia project.
+
+---
+
+## 2.3 Zdroj, který musí být chráněn (2)
+
+![Equifax](/images/2_3_identity_theft.jpg)
+
+Image credit : Wikimedia project.
 
 ---
 
 ## 2.4 Proč jsme dnes tady?
 
-* Bavit se o datech- pochopit, jak pracovat s daty pomocí volně dostupné technologie.
-* Abyste si uvědomili, jak důležitá se data v našem moderním světě stala a proč si každý musí být vědom jejich dopadu na naše životy.
+<img alt="Advancing Women in Tech Leadership" src="/images/visual.png" width="80%">
 
 ===
 
@@ -236,13 +244,7 @@ V roce 2017 utrpěla americká společnost Equifax jeden z největších úniků
 
 ### 3.1.1 Co pro vás může udělat Python?
 
-Představte si svět, kde můžete svůj počítač přimět, aby dělal věci za vás, jako je automatizace opakujících se úloh nebo analýza informací.
-
-Python je speciální jazyk, který vám s tím pomůže.
-
-Python je programovací jazyk, ale představte si ho spíše jako nástroj, který vám umožní komunikovat s vaším počítačem. Je známý tím, že je přátelský a snadno srozumitelný, skládá se z jednoduchých anglických slov jako if (=jestli), then (=pak), for (=opakovat).
-
-Python můžete použít k automatizaci úkolů, jako je přejmenování, organizování fotografií nebo provádění výpočtů. Je to jako mít užitečného asistenta.
+![Python](/images/python.png)
 
 V Pythonu píšete příkazy nebo instrukce způsobem, kterému počítač rozumí. Poté se řídí těmito pokyny a odpovídajícím způsobem zareaguje. Je to trochu jako dát počítači seznam úkolů. Dokáže přijímat rozhodnutí a opakovat úkoly.
 
@@ -250,23 +252,26 @@ V Pythonu píšete příkazy nebo instrukce způsobem, kterému počítač rozum
 
 ### 3.1.2 Kdo používá Python?
 
-Python se používá v různých oblastech. Například ve financích pomáhá analyzovat trendy na skladětrhy.
+![CMS Collision](/images/3_2_1_CMS_data.png)
 
-Je užitečný ve vědě, kde jej vědci z celého světa využívají ke sdílení svých výzkumů.
+---
 
-Je užitečný k vytváření webový stránek a upravově knih (na papíře i v elektronické podobě).
+### 3.1.2 Kdo používá Python? (2)
 
-Používá se dokonce i v umění, protože jej někteří umělci a tvůrci používají ke generování hudby, vytváření videoher nebo dokonce generování obrazů, fotografií a videosekvencí.
+![Atlas detector](/images/3_2_1_ATLAS.png)
 
-Jedna z nejlepších věcí na Pythonu je komunita. Na celém světě je mnoho lidí, kteří používají a milují Python. Můžete najít pomoc, sdílet nápady a učit se od ostatních, kteří rádi tento jazyk zkoumají.
+---
 
-Python není majetkem komerční společnosti, ale lidstva obecně. Je zdarma k použití a zdarma ke sdílení s kýmkoli.
+### 3.1.2 Kdo používá Python? (3)
+
+![Girl learning robotics](./images/3_1_2_robotics.png)
 
 ---
 
 ### 3.1.3 Je to vaše moc
 
-Stručně řečeno, Python vám umožňuje dělat s počítačem skvělé věci, ať už organizujete soubory, vytváříte umění nebo se ponoříte do nových dobrodružství. Je to nástroj, který odemkne vaši kreativitu a umožní vám, aby technologie pracovala za vás.
+* Stručně řečeno, Python vám umožňuje dělat s počítačem skvělé věci, ať už organizujete soubory, vytváříte umění nebo se ponoříte do nových dobrodružství. 
+* Je to nástroj, který odemkne vaši kreativitu a umožní vám, aby technologie pracovala za vás.
 
 ===
 
@@ -276,9 +281,26 @@ Stručně řečeno, Python vám umožňuje dělat s počítačem skvělé věci,
 
 ### 3.2Q1 Co můžete dělat s Pythonem?
 
-1 - dělat pouze vědeckou práci.
-2 - cokoli chcete, ale musíte si to nejprve koupit.
-3 - věda, umění, obchod... cokoliv chcete!
+<div class="poll" data-poll="pythonuse">
+	<button data-value="one">dělat pouze vědeckou práci.</button>
+	<br>
+	<button data-value="two">cokoli chcete, ale musíte si to nejprve koupit.</button>
+	<br>
+  <button data-value="three">věda, umění, obchod... cokoliv chcete!</button>
+	<br>
+</div>
+<p style="font-size:24px;color:gray;">Responses: <span class="voters" data-poll="pythonuse">0</span></p>
+
+---
+
+## 3.2Q1 Co můžete dělat s Pythonem?
+
+<div style="position: relative;height:480px!important;width:1280px!important;">
+<canvas data-chart="bar" data-poll="pythonuse">
+, vědeckou práci, nejprve koupit, cokoliv chcete
+, 0, 0, 0
+</canvas>
+</div>
 
 ---
 
@@ -288,6 +310,27 @@ Stručně řečeno, Python vám umožňuje dělat s počítačem skvělé věci,
 2 - Protože patří všem.
 3 - Protože tomu vědci důvěřují.
 
+<div class="poll" data-poll="somany">
+	<button data-value="one">Protože je to jednoduché a dostupné.</button>
+	<br>
+	<button data-value="two">Protože patří všem.</button>
+	<br>
+  <button data-value="three">Protože tomu vědci důvěřují.</button>
+	<br>
+</div>
+<p style="font-size:24px;color:gray;">Responses: <span class="voters" data-poll="somany">0</span></p>
+
+---
+
+## 3.2Q2 Proč může tolik lidí na světě používat Python?
+
+<div style="position: relative;height:480px!important;width:1280px!important;">
+<canvas data-chart="bar" data-poll="somany">
+, jednoduché a dostupné, patří všem, tomu vědci důvěřují
+, 0, 0, 0
+</canvas>
+</div>
+
 ===
 
 ## 3.3 Data v Pythonu
@@ -296,19 +339,14 @@ Stručně řečeno, Python vám umožňuje dělat s počítačem skvělé věci,
 
 ### 3.3.1 Proměnné
 
-V programování používáme proměnné k ukládání a informací správě. Jsou jako zástupné symboly pro hodnoty, které se mohou měnit, díky čemuž je náš kód přizpůsobivější – pokud změníme data, nemusíme měnit náš program.
-
-Stejně jako pomocí přihrádek k uspořádání věcí pomáhají proměnné udržovat naše programy organizované a efektivní.
-
-Zde je návod, jak vytvořit proměnnou: vyberete název, například ,,oblíbené_číslo```, a poté pomocí znaménka rovná se (=) vložíte hodnotu. Například:
-
 ```python
 oblíbené_číslo = 5
 ```
 
-Nyní je ```oblíbené_číslo``` proměnná s hodnotou 5. Kdykoli budete chtít toto číslo použít nebo změnit, stačí se obrátit na proměnnou ```oblíbené_číslo```.
+---
 
-Proměnné jsou užitečné, protože vám umožňují ukládat informace a používat je později ve vašem programu. Můžete také změnit, co je uvnitř proměnné. Například:
+### 3.3.1 Proměnné (2)
+
 
 ```python
 oblíbené_číslo = 7
@@ -316,13 +354,9 @@ oblíbené_číslo = 7
 
 Nyní ```oblíbené_číslo``` obsahuje 7 místo 5.
 
-V Pythonu nám proměnné pomáhají sledovat informace, činí náš kód flexibilní a opakovaně používají hodnoty, kdykoli je potřebujeme. Jsou jako malé úložné krabičky, díky kterým jsou naše programy organizovanější a výkonnější.
-
 ---
 
 ### 3.3.2 Seznamy (1)
-
-Seznam v Pythonu je jako kontejner, do kterého můžete umístit více položek v určitém pořadí. Je to trochu jako vytvořit si kontrolní seznam nebo zapisovat věci, které musíte udělat.
 
 Seznam vašeho oblíbeného ovoce může vypadat například takto:
 
