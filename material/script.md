@@ -143,6 +143,8 @@ Data refers to raw facts, figures, or information that can be recorded, stored, 
 
 Not all data is public. Not all data should be collected.
 
+--- 
+
 Data has become as important as water or clean air :
 
 * Data is everywhere : anything can be expressed as data - and once it is data, it can be exploited.
