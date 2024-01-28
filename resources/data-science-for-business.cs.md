@@ -258,7 +258,7 @@ V Pythonu píšete příkazy nebo instrukce způsobem, kterému počítač rozum
 
 ### 3.1.2 Kdo používá Python? (2)
 
-![Atlas detector](/images/3_2_1_ATLAS.png)
+![Atlas detector](/images/3_2_1_ATLAS.jpg)
 
 ---
 
