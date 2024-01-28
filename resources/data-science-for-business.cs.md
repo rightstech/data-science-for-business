@@ -444,9 +444,7 @@ import seaborn as sns
 
 ## 3.5 Pandas - práce s daty
 
-Pandas je knihovna Pythonu, která vám pomůže bez námahy pracovat se strukturovanými daty. Je to jako mít mocnástroj pro manipulaci a analýzu datových tabulek, což výrazně usnadňuje úkoly, jako je čištění a analýza dat.
-
-Pokud používáte Microsoft Excel, představte si, že mu řeknete, aby vyčistil a aktualizoval informace, prováděl složité výpočty pomocí jediné instrukce (místo toho, abyste museli všude vyjímat a vkládat vzorce).
+![Spreadsheet and Data](/images/3_5_spreadsheet.jpg)
 
 ---
 
