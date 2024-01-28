@@ -306,10 +306,6 @@ V Pythonu píšete příkazy nebo instrukce způsobem, kterému počítač rozum
 
 ### 3.2Q2 Proč může tolik lidí na světě používat Python?
 
-1 - Protože je to jednoduché a dostupné.
-2 - Protože patří všem.
-3 - Protože tomu vědci důvěřují.
-
 <div class="poll" data-poll="somany">
 	<button data-value="one">Protože je to jednoduché a dostupné.</button>
 	<br>
@@ -414,17 +410,51 @@ kontakt =
 
 ### 3.3Q1 Jakou metodu by použil seznam v Pythonu, kdyby chtěl pozvat nového přítele, aby se připojil ke skupině?
 
-1. party_list.extend(new_friend)
-2. party_list.import(new_friend)
-3. party_list.append(new_friend)
+<div class="poll" data-poll="party">
+	<button data-value="one">party_guest_list.extend(new_friend)</button>
+	<br>
+	<button data-value="two">party_guest_list.import(new_friend)</button>
+	<br>
+  <button data-value="three">party_guest_list.append(new_friend)</button>
+	<br>
+</div>
+<p style="font-size:24px;color:gray;">Responses: <span class="voters" data-poll="party">0</span></p>
+
+---
+
+## 3.2Q1 Jakou metodu by použil seznam v Pythonu
+
+<div style="position: relative;height:480px!important;width:1280px!important;">
+<canvas data-chart="bar" data-poll="party">
+, extend, import, append
+, 0, 0, 0
+</canvas>
+</div>
 
 ---
 
 ### 3.3Q2 Kdyby byl slovník Pythonu knihou, čemu by byly ekvivalentní klíče?
 
-1. Názvy kapitol
-2. Čísla stránek
-3. Obsah
+<div class="poll" data-poll="dictionary">
+	<button data-value="one">Názvy kapitol</button>
+	<br>
+	<button data-value="two">Čísla stránek</button>
+	<br>
+  <button data-value="three">Obsah</button>
+	<br>
+</div>
+<p style="font-size:24px;color:gray;">Responses: <span class="voters" data-poll="dictionary">0</span></p>
+
+---
+
+### 3.3Q2 Kdyby byl slovník Pythonu knihou, čemu by byly ekvivalentní klíče?
+
+<div style="position: relative;height:480px!important;width:1280px!important;">
+<canvas data-chart="bar" data-poll="dictionary">
+, Názvy kapitol, Čísla stránek, Obsah
+, 0, 0, 0
+</canvas>
+</div>
 
 ---
 
