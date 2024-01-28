@@ -8,7 +8,7 @@ O čem si dnes povíme:
 * Jak se vztahují na ženy ve STEM? „STEM“ znamená vědu, technologii, inženýrství a matematiku.
 * Probereme slavné ženy ve STEM.
 
-===
+---
 
 ## 1.1 Co jsou lidská práva?
 
@@ -18,13 +18,13 @@ O čem si dnes povíme:
 
 Obrázek: Foto OSN / Jean-Marc Ferré. Na snímku jsou vlajky zemí v OSN v Ženevě.
 
-===
+---
 
 ### 1.1Q1 Kvíz: Jaké jsou příklady lidských práv?
 
 Vyjmenujte prosím některá lidská práva, která vás napadají. Otevřené odpovědi.
 
-===
+---
 
 ## 1.2 Kde jsou sepsána lidská práva?
 
@@ -36,7 +36,7 @@ Lidská práva lze nalézt sepsaná na mnoha různých místech, například v:
 
 Obrázek: Česká národní rada - Stejnopis Sbírky zákonů, Public Domain. Na snímku obálka české ústavy.
 
-===
+---
 
 ## 1.3 Může být stejné lidské právo zapsáno na více než jednom místě?
 
@@ -44,11 +44,11 @@ Obrázek: Česká národní rada - Stejnopis Sbírky zákonů, Public Domain. Na
 * Stejné právo může být umístěno ve více než jedné smlouvě o lidských právech.
 * Toto právo lze zároveň nalézt ve více než jednom vnitrostátním právu.
 
-===
+---
 
 ### 1.3.1 Příklad: Právo na rovnost je obsaženo v mnoha smlouvách a také v národních zákonech, jako je ústava země a další zákony.
 
----
+===
 
 ## 1.4 Jak se lidská práva vztahují na ženy ve STEM?
 
@@ -61,7 +61,7 @@ Tato práva jsou zapsána v mezinárodních smlouvách o lidských právech, ně
 
 Obrázek: Fotografie od Thisisengineering, Pexels
 
-===
+---
 
 ### 1.4.1 Příklad: Právo na vzdělání dnes znamená, že by se každý měl naučit technologické dovednosti, které potřebuje pro práci.
 
@@ -70,13 +70,13 @@ Vlády nyní mění své vzdělávací osnovy, protože si uvědomují dvě důl
 1. každý potřebuje tyto dovednosti 
 2. tyto dovednosti jsou pro každého
 
-===
+---
 
 ## 1.5 Jaké jsou některé z hlavních smluv OSN o lidských právech?
 
 Obrázek: Fotografie OSN, Marvin Bolotsky. Na snímku předsedkyně komise, paní Eleanor Rooseveltová (vpravo) s paní Hansou Mehtou z Indie v Komisi OSN pro lidská práva, 1949.
 
-===
+---
 
 ### 1.5.1 Všeobecná deklarace lidských práv (UDHR), 10. prosince 1948.
 
@@ -85,7 +85,7 @@ Toto bylo prohlášení, ne smlouva. Ale i to je nyní považováno za mezináro
 Země se rozhodly, že už nikdy nechtějí, aby se zvěrstva, která se stala během druhé světové války, opakovala.
 Postupem času jsme po této deklaraci získali deset mezinárodních smluv o lidských právech.
 
-===
+---
 
 ### 1.5.2 Několik důležitých smluv o lidských právech pro téma ženy v STEM je:
 
@@ -95,7 +95,7 @@ Postupem času jsme po této deklaraci získali deset mezinárodních smluv o li
 * 1979 - Úmluva o odstranění všech forem diskriminace žen, CEDAW
 * ...a více
 
-===
+---
 
 ## 1.5Q1 Kvíz: Znamená slova „dohoda“, „smlouva“, „konvence“ a „volitelný protokol“ totéž, když mluvíme o smlouvách o lidských právech?
 
@@ -105,7 +105,7 @@ Vyberte prosím odpověď:
 * Ano
 * Ne
 
-===
+---
 
 ### 1.5.3 Jak zjistím, zda se moje vláda zavázala garantovat práva, která jsou obsažena v konkrétní smlouvě o lidských právech?
 
@@ -114,7 +114,7 @@ Zde se můžete podívat, kde jsou sledovány oficiální ratifikace smluv OSN j
 https://treaties.un.org/Pages/ParticipationStatus.aspx?clang=_en
 Vláda České republiky souhlasila s implementací všech výše uvedených smluv, CCPR, CESCR, CRC, CEDAW.
 
----
+===
 
 ## 1.6 Jak aplikujeme stávající smlouvy o lidských právech na dívky a ženy ve STEM?
 
@@ -126,7 +126,7 @@ Důležitá práva jsou ve smlouvách o lidských právech a také v našich ná
 * Informace – například Mezinárodní pakt o občanských a politických právech, článek 19
 * Právo na vědu – viz Pakt Organizace spojených národů o ekonomických, sociálních a kulturních právech, článek 15
 
----
+===
 
 ## 1.7 Příklady slavných žen v informačních technologiích
 
@@ -140,7 +140,7 @@ Obrázek: Science Museum Group, Portrét Ady Kingové, hraběnky z Lovelace - Ad
 Obraz z roku 1840 je připisován Alfredu Edwardu Chalonovi.
 Ada Lovelace přispěla k prvním nápadům o práci na počítači.
 
-===
+---
 
 ### 1.7.1 ... a několik dalších příkladů
 
@@ -154,7 +154,7 @@ Ada Lovelace přispěla k prvním nápadům o práci na počítači.
 
 Obrázek: NASA / Adam Cuerden. Na obrázku je Katherine Johnson v NASA v roce 1966.
 
-===
+---
 
 ## 1.8 Závěr: Lidská práva a ženy v STEM
 
@@ -164,11 +164,11 @@ Obrázek: NASA / Adam Cuerden. Na obrázku je Katherine Johnson v NASA v roce 19
 * Pro dívky a ženy je normální dozvědět se více o programování a technologiích.
 * Podívejme se, co uděláte se svými novými dovednostmi!
 
----
+===
 
 # 2 Úvod do analýzy dat
 
-===
+---
 
 ## 2.1 Data všude
 
@@ -189,13 +189,13 @@ Data se stala stejně důležitá jako voda nebo čistý vzduch:
 * Údaje jsou dobrovolně poskytovány jednotlivci: Váš telefon analyzuje, co říkáte, kam jdete, co kupujete.
 * Data se snadněji a snadněji zpracovávají: Umělá inteligence dnes dokáže extrahovat data ze situací, které dříve vyžadovaly příliš mnoho práce osob (čtení textu, tlumočení řeči).
 
-===
+---
 
 ## 2.2 Data a lidská práva
 
 V roce 2018 vyšlo najevo, že Cambridge Analytica, politická poradenská firma, sklidila data od milionů uživatelů Facebooku bez jejich souhlasu. Tato data pak byla použita k vytváření cílených politických reklam, ovlivňujících názory voličů v různých volbách, včetně prezidentských voleb v USA v roce 2016 a referenda o Brexitu ve Spojeném království.
 
-===
+---
 
 ## 2.3 Zdroj, který musí být chráněn
 
@@ -203,22 +203,22 @@ V roce 2018 fitness aplikace Strava odhalila umístění několika tajných amer
 
 V roce 2017 utrpěla americká společnost Equifax jeden z největších úniků dat v historii a odhalila citlivé informace, včetně čísel sociálního zabezpečení, o 147 milionech lidí. Tyto informace mohou někomu umožnit spáchat bankovní podvod a krádež identity.
 
-===
+---
 
 ## 2.4 Proč jsme dnes tady?
 
 * Bavit se o datech- pochopit, jak pracovat s daty pomocí volně dostupné technologie.
 * Abyste si uvědomili, jak důležitá se data v našem moderním světě stala a proč si každý musí být vědom jejich dopadu na naše životy.
 
----
+===
 
 # 3 Python pro analýzu dat
 
-===
+---
 
 ## 3.1 Proč se učit python?
 
-===
+---
 
 ### 3.1.1 Co pro vás může udělat Python?
 
@@ -232,7 +232,7 @@ Python můžete použít k automatizaci úkolů, jako je přejmenování, organi
 
 V Pythonu píšete příkazy nebo instrukce způsobem, kterému počítač rozumí. Poté se řídí těmito pokyny a odpovídajícím způsobem zareaguje. Je to trochu jako dát počítači seznam úkolů. Dokáže přijímat rozhodnutí a opakovat úkoly.
 
-===
+---
 
 ### 3.1.2 Kdo používá Python?
 
@@ -248,17 +248,17 @@ Jedna z nejlepších věcí na Pythonu je komunita. Na celém světě je mnoho l
 
 Python není majetkem komerční společnosti, ale lidstva obecně. Je zdarma k použití a zdarma ke sdílení s kýmkoli.
 
-===
+---
 
 ### 3.1.3 Je to vaše moc
 
 Stručně řečeno, Python vám umožňuje dělat s počítačem skvělé věci, ať už organizujete soubory, vytváříte umění nebo se ponoříte do nových dobrodružství. Je to nástroj, který odemkne vaši kreativitu a umožní vám, aby technologie pracovala za vás.
 
----
+===
 
 ## 3.2 Otázky o Pythonu
 
-===
+---
 
 ### 3.2Q1 Co můžete dělat s Pythonem?
 
@@ -266,7 +266,7 @@ Stručně řečeno, Python vám umožňuje dělat s počítačem skvělé věci,
 2 - cokoli chcete, ale musíte si to nejprve koupit.
 3 - věda, umění, obchod... cokoliv chcete!
 
-===
+---
 
 ### 3.2Q2 Proč může tolik lidí na světě používat Python?
 
@@ -274,11 +274,11 @@ Stručně řečeno, Python vám umožňuje dělat s počítačem skvělé věci,
 2 - Protože patří všem.
 3 - Protože tomu vědci důvěřují.
 
----
+===
 
 ## 3.3 Data v Pythonu
 
-===
+---
 
 ### 3.3.1 Proměnné
 
@@ -304,7 +304,7 @@ Nyní ```oblíbené_číslo``` obsahuje 7 místo 5.
 
 V Pythonu nám proměnné pomáhají sledovat informace, činí náš kód flexibilní a opakovaně používají hodnoty, kdykoli je potřebujeme. Jsou jako malé úložné krabičky, díky kterým jsou naše programy organizovanější a výkonnější.
 
-===
+---
 
 ### 3.3.2 Seznamy
 
@@ -334,7 +334,7 @@ tisk (ovoce)
 # Výstup: ['jablko', 'oranžová', 'hroznová']
 ```
 
----
+===
 
 ### 3.3.3 Slovníky
 
@@ -353,11 +353,11 @@ kontakt =
 
 Pro přístup ke konkrétním informacím používáte klíče jako 'name' nebo 'email'.
 
----
+===
 
 ### 3.3 Otázky týkající se dat v Pythonu
 
-===
+---
 
 ### 3.3Q1 Jakou metodu by použil seznam v Pythonu, kdyby chtěl pozvat nového přítele, aby se připojil ke skupině?
 
@@ -365,7 +365,7 @@ Pro přístup ke konkrétním informacím používáte klíče jako 'name' nebo 
 2. party_list.import(new_friend)
 3. party_list.append(new_friend)
 
-===
+---
 
 ### 3.3Q2 Kdyby byl slovník Pythonu knihou, čemu by byly ekvivalentní klíče?
 
@@ -373,7 +373,7 @@ Pro přístup ke konkrétním informacím používáte klíče jako 'name' nebo 
 2. Čísla stránek
 3. Obsah
 
-===
+---
 
 ## 3.4 Knihovny v Pythonu
 
@@ -395,7 +395,7 @@ import matplotlib.pyplot as plot
 import seaborn as sns
 ```
 
----
+===
 
 ## 3.5 Pandas - práce s daty
 
@@ -403,11 +403,11 @@ Pandas je knihovna Pythonu, která vám pomůže bez námahy pracovat se struktu
 
 Pokud používáte Microsoft Excel, představte si, že mu řeknete, aby vyčistil a aktualizoval informace, prováděl složité výpočty pomocí jediné instrukce (místo toho, abyste museli všude vyjímat a vkládat vzorce).
 
-===
+---
 
 ### 3.5.1 Datový rámec a série
 
-===
+---
 
 #### 3.5.1.1 DataFrame
 
@@ -433,17 +433,17 @@ Můžete také načíst počítačový soubor, jako je soubor Excel (ve formátu
 df = pandas.loadCSV("myFile.csv")
 print(df)
 ```
----
+===
 
 ## 3.6 Seaborn a Matplotlib – vizualizace dat
 
-===
+---
 
 ### 3.6.1 K čemu se používají?
 
 Matplotlib a Seaborn jsou dvě **knihovny** pro vizualizaci dat Pythonu, které usnadňují vytváření atraktivní a informativní statistické grafiky. Oba dobře fungují s Pandas DataFrames a zjednodušují proces vytváření grafů nebo jiných typů diagramů.
 
-===
+---
 
 ### 3.6.2 Transformace dat do grafu
 
@@ -451,39 +451,38 @@ Matplotlib a Seaborn jsou dvě **knihovny** pro vizualizaci dat Pythonu, které 
 import pandas
 import seaborn
 import matplotlib.pyplot as plot
-
 # Vytvoření datového rámce Pandas
 data = {'Jméno': ['Alice', 'Bob', 'Charlie'],
          'Věk': [25, 30, 35],
          'Město': ['Praha', 'Brno', 'Hradec Králové'],
          'Plat': [50 000, 60 000, 70 000]}
-
 dataframe = pandas.DataFrame(data)
-
 # Seaborn Příklad - Bar Plot
 seaborn.barplot(x='Jméno', y='Plat', data=dataframe, palette='viridis')
 plot.title('Informace o platu zaměstnance')
 plot.xlabel('Jméno zaměstnance')
 plot.ylabel('Plat')
-plot.show()
 ```
----
+
+===
 
 ## 4 Cvičení - Případová studie Titanic
 
----
+[https://rightstech.github.io/tutorial](https://rightstech.github.io/tutorial)
+
+===
 
 ## 5 Jak pokračovat v učení?
 
-===
+---
 
 ### 5.1 Online kurzy
 
-===
+---
 
 ### 5.2 Program mentorů Foxconn
 
----
+===
 
 # 6 Otázky a odpovědi: Diskuse o mentorství
 
@@ -493,12 +492,12 @@ Tipy od našich trenérů
 
 Jaké jsou vaše otázky pro naše trenéry?
 
----
+===
 
 # 7 RightsTech žen na LinkedIn
 https://linkedin.com/company/rightstech-women
 
----
+===
 
 # 8 Hodnotící formulář
 Navštivte prosím odkaz, který vám vaši trenéři ukážou, a vyplňte hodnotící formulář.
