@@ -369,9 +369,9 @@ ovoce = ['jablko', 'banán', 'pomeranč']
 Do seznamu můžete snadno přidat položky:
 
 ```python
-fruits.append('hrozny')
-tisk (ovoce)
-# Výstup: ['jablko', 'banán', 'pomeranč', 'hroznová']
+ovoce.append('hrozny')
+print(ovoce)
+# Výstup: ['jablko', 'banán', 'pomeranč', 'hrozny']
 ```
 
 ---
@@ -382,9 +382,9 @@ nebo je odstraňte:
 
 ```python
 ovoce = ['jablko', 'banán', 'pomeranč', 'hrozny']
-fruits.remove('banán')
-tisk (ovoce)
-# Výstup: ['jablko', 'oranžová', 'hroznová']
+ovoce.remove('banán')
+print(ovoce)
+# Výstup: ['jablko', 'oranžová', 'hrozny']
 ```
 
 ===
@@ -436,11 +436,11 @@ kontakt =
 ### 3.3Q2 Kdyby byl slovník Pythonu knihou, čemu by byly ekvivalentní klíče?
 
 <div class="poll" data-poll="dictio">
-	<button data-value="nazvy">Názvy kapitol</button>
+	<button data-value="one">Názvy kapitol</button>
 	<br>
-	<button data-value="cisla">Čísla stránek</button>
+	<button data-value="two">Čísla stránek</button>
 	<br>
-  <button data-value="obsah">Obsah</button>
+  <button data-value="three">Obsah</button>
 	<br>
 </div>
 <p style="font-size:24px;color:gray;">Responses: <span class="voters" data-poll="dictio">0</span></p>
