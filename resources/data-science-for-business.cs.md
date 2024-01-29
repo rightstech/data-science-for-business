@@ -435,22 +435,22 @@ kontakt =
 
 ### 3.3Q2 Kdyby byl slovník Pythonu knihou, čemu by byly ekvivalentní klíče?
 
-<div class="poll" data-poll="dictionary">
-	<button data-value="one">Názvy kapitol</button>
+<div class="poll" data-poll="dictio">
+	<button data-value="nazvy">Názvy kapitol</button>
 	<br>
-	<button data-value="two">Čísla stránek</button>
+	<button data-value="cisla">Čísla stránek</button>
 	<br>
-  <button data-value="three">Obsah</button>
+  <button data-value="obsah">Obsah</button>
 	<br>
 </div>
-<p style="font-size:24px;color:gray;">Responses: <span class="voters" data-poll="dictionary">0</span></p>
+<p style="font-size:24px;color:gray;">Responses: <span class="voters" data-poll="dictio">0</span></p>
 
 ---
 
 ### 3.3Q2 Kdyby byl slovník Pythonu knihou, čemu by byly ekvivalentní klíče?
 
 <div style="position: relative;height:480px!important;width:1280px!important;">
-<canvas data-chart="bar" data-poll="dictionary">
+<canvas data-chart="bar" data-poll="dictio">
 , Názvy kapitol, Čísla stránek, Obsah
 , 0, 0, 0
 </canvas>
