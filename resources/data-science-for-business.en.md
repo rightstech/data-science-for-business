@@ -6,7 +6,7 @@
 
 ## 1.1 What are human rights?
 
-![UN Declaration](/images/1_1_UN7338882_78d_.jpg)
+![UN Declaration](./images/1_1_UN7338882_78d_.jpg)
 
 
 Image: UN Photo / Jean-Marc Ferré. The picture shows the flags of countries at the UN in Geneva.
@@ -21,7 +21,7 @@ Please list some human rights that come to your mind. Open answers.
 
 ## 1.2 Where are human rights written down?
 
-![Czech Constitution](/images/1_2_Sbírka_zákonů_1993_částka_001_strana_01.png)
+![Czech Constitution](./images/1_2_Sbírka_zákonů_1993_částka_001_strana_01.png)
 
 Image: Czech National Council - Official Copy of the Collection of Laws, Public Domain. The image shows the cover of the Czech constitution.
 
@@ -45,7 +45,7 @@ Image: Czech National Council - Official Copy of the Collection of Laws, Public 
 
 ### 1.4 How do human rights relate to women in STEM?
 
-![STEM](/images/1_4_pexels-thisisengineering-3861457.jpg)
+![STEM](./images/1_4_pexels-thisisengineering-3861457.jpg)
 
 Image: Photograph by Thisisengineering, Pexels
 
@@ -62,7 +62,7 @@ Governments are now changing their educational curricula because they realize tw
 
 ## 1.5 What are some of the main UN human rights treaties?
 
-![Human Rights Treaties](/images/1_5_UN7499124_aa9_.jpg)
+![Human Rights Treaties](./images/1_5_UN7499124_aa9_.jpg)
 
 Image: UN Photo, Marvin Bolotsky. The picture shows the Commission Chairperson, Mrs. Eleanor Roosevelt (right) with Mrs. Hansa Mehta of India at the UN Commission on Human Rights, 1949.
 
@@ -118,7 +118,7 @@ Please select an answer:
 Here you can see where official ratifications of UN treaties by individual countries are tracked:
 
 https://treaties.un.org/Pages/ParticipationStatus.aspx?clang=_en
-The Government of the Czech Republic has agreed to implement all of the above treaties, CCPR, CESCR, CRC, CEDAW.
+
 
 ===
 
@@ -148,7 +148,7 @@ Ada Lovelace contributed to the first ideas about computer work.
 
 ### 1.7.1 ... and a few more examples
 
-![Katherine Johnson](/images/1_7_1_Katherine_Johnson_at_NASA,_in_1966_3173x4000px.jpg)
+![Katherine Johnson](./images/1_7_1_Katherine_Johnson_at_NASA,_in_1966_3173x4000px.jpg)
 
 
 * Katherine Johnson, one of the first African American women to work as a NASA scientist, 1918 - 2020
@@ -187,7 +187,7 @@ Image: NASA / Adam Cuerden. The image shows Katherine Johnson at NASA in 1966.
 
 ## 2.1 Data Everywhere
 
-![NASA Satellite collecting data](/images/2_1_GPS_Satellite_NASA_art-iif.jpg)
+![NASA Satellite collecting data](./images/2_1_GPS_Satellite_NASA_art-iif.jpg)
 
 Not all data is public. Not all data should be collected.
 
@@ -197,7 +197,7 @@ Image credit : Wikimedia project.
 
 ## 2.1 Data Everywhere (2)
 
-![Smartphone](/images/2_1_Smartphone-mobile-hand.jpg)
+![Smartphone](./images/2_1_Smartphone-mobile-hand.jpg)
 
 Image credit : Wikimedia project.
 
@@ -205,7 +205,7 @@ Image credit : Wikimedia project.
 
 ## 2.2 Data and Human Rights
 
-![Cambridge Analytica](/images/2_2_Brexit_Trump.jpg)
+![Cambridge Analytica](./images/2_2_Brexit_Trump.jpg)
 
 Image credit : Wikimedia project.
 
@@ -213,7 +213,7 @@ Image credit : Wikimedia project.
 
 ## 2.3 A Resource That Must Be Protected
 
-![Strava Data Leak](/images/2_3_strava.png)
+![Strava Data Leak](./images/2_3_strava.png)
 
 Image credit : Wikimedia project.
 
@@ -221,7 +221,7 @@ Image credit : Wikimedia project.
 
 ## 2.3 A Resource That Must Be Protected (2)
 
-![Equifax](/images/2_3_identity_theft.jpg)
+![Equifax](./images/2_3_identity_theft.jpg)
 
 Image credit : Wikimedia project.
 
@@ -243,7 +243,7 @@ Image credit : Wikimedia project.
 
 ### 3.1.1 What Can Python Do for You?
 
-![Python](/images/python.png)
+![Python](./images/python.png)
 
 In Python, you write commands or instructions in a way that the computer understands. It then follows these instructions and responds accordingly. It's a bit like giving the computer a list of tasks. It can make decisions and repeat tasks.
 
@@ -251,13 +251,13 @@ In Python, you write commands or instructions in a way that the computer underst
 
 ### 3.1.2 Who Uses Python?
 
-![CMS Collision](/images/3_2_1_CMS_data.png)
+![CMS Collision](./images/3_2_1_CMS_data.png)
 
 ---
 
 ### 3.1.2 Who Uses Python? (2)
 
-![Atlas detector](/images/3_2_1_ATLAS.jpg)
+![Atlas detector](./images/3_2_1_ATLAS.jpg)
 
 ---
 
@@ -386,7 +386,7 @@ print(fruits)
 # Output: ['apple', 'orange', 'grapes']
 ```
 
-===
+---
 
 ### 3.3.3 Dictionaries
 
@@ -469,10 +469,11 @@ import matplotlib.pyplot as plot
 import seaborn as sns
 ```
 
-===
+---
+
 ## 3.5 Pandas - Working with Data
 
-![Spreadsheet and Data](/images/3_5_spreadsheet.jpg)
+![Spreadsheet and Data](./images/3_5_spreadsheet.jpg)
 
 ---
 
@@ -540,7 +541,7 @@ plot.show()
 
 ### 3.6.2 Transforming Data into a Graph
 
-![Seaborn bar plot](/images/seaborn-diagram.png)
+![Seaborn bar plot](./images/seaborn-diagram.png)
 
 ===
 
@@ -580,4 +581,4 @@ https://linkedin.com/company/rightstech-women
 # 8 Evaluation Form
 Please visit the link that your trainers will show you and fill out the evaluation form.
 
-![Evaluation Form QR Code](/images/evaluation_bit.ly.png)
+![Evaluation Form QR Code](./images/evaluation_bit.ly.png)
