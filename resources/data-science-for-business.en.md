@@ -28,7 +28,7 @@ Image: UN Photo / Jean-Marc Ferré. The picture shows the flags of countries at 
 
 Can you list some human rights that come to your mind ?
 
----
+===
 
 ## 1.2 Where are human rights written down?
 
@@ -39,6 +39,76 @@ Can you list some human rights that come to your mind ?
 * Employer policies
 
 ---
+
+# Czechia
+
+- Constitution of the Czech Republic (1993) (https://www.psp.cz/en/docs/laws/constitution.html)
+- Charter of Fundamental Rights and Freedoms (1993) (Equality before the law) (See arts. 1 and 3)
+- Anti-Discrimination Act (2009) (Equality of treatment in education, employment, and social security) 
+(https://www.zakonyprolidi.cz/cs/2009-198)
+- Sectoral law on education (2004) https://www.zakonyprolidi.cz/cs/2004-561- Sectoral law on employment (2006) 
+https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/74435/76709/F-983979123/CZE74435 Cze.pdf- Government Strategy for Equality of Women and Men for 2021–2030
+Additional resource:
+https://eige.europa.eu/gender-mainstreaming/countries/czechia
+
+---
+
+# France
+
+- Constitution of the Fifth Republic (1958) (FR: https://www.conseil-constitutionnel.fr/le-bloc-de-
+constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur
+; EN: https://www.conseil-constitutionnel.fr/sites/default/files/as/root/bank_mm/anglais/
+constitution_anglais.pdf)
+- LOI n° 2021-1774 du 24 décembre 2021 visant à accélérer l'égalité économique et professionnelle (Law on
+Economic and Professional Gender Equality 2021) (https://perma.cc/Q4UK-673Q) (See also 
+https://www.loc.gov/item/global-legal-monitor/2022-01-23/france-law-on-economic-and-professional-gender-
+equality-adopted/)
+- LOI n° 2014-873 du 4 août 2014 pour l'égalité réelle entre les femmes et les hommes ((Gender Equality Act
+(2014), arts. 2-26 (la vie professionelle) ( https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000029330832)
+Additional resources:
+https://travail-emploi.gouv.fr/index-de-legalite-professionnelle-calcul-et-questionsreponses
+https://eige.europa.eu/gender-mainstreaming/countries/france
+
+---
+
+# Germany
+
+- Basic Law for the Federal Republic of Germany (1949) (art. 3 (equality) (https://www.gesetze-im-internet.de/englisch_gg/)
+- (Allgemeines Gleichbehandlungsgesetz – AGG) (General Equal Treatment Act) (2006) - Prohibits discrimination in employment and education on grounds of gender 
+(https://www.gesetze-im-internet.de/englisch_agg/englisch_agg.html)
+Additional resource: https://eige.europa.eu/gender-mainstreaming/countries/germany
+
+---
+
+# Italy
+
+- Constitution of the Italian Republic (1948) (Articles 3 (Equality), 34 (Education)
+(https://www.senato.it/documenti/repository/istituzione/costituzione_inglese.pdf)
+- Code of Equal Opportunities between Men and Women (2006) (Legislative Decree No. 198 of 2006) 
+((Ensures equal opportunities in education, employment, and social rights)
+- Overall strategy focused on gender equality, ‘the National Strategy for Gender Equality’ 2021-2026 
+(Strategia nazionale per la parità di genere) (July 2021)
+- Law 162/2021 amending the Italian Equal Opportunity Code (Legislative Decree 198/2006)
+- Additional resources:
+https://eige.europa.eu/gender-mainstreaming/countries/italy?language_content_entity=en
+https://www.lexology.com/library/detail.aspx?g=26fe1e91-0c7e-4c24-8b61-9e8b2ce4da07 
+ 
+
+---
+
+# Switzerland
+
+- Swiss Federal Constitution (1999) (art. 8 (Equality), art. 19 (Education)) (available in EN at 
+https://www.fedlex.admin.ch/eli/cc/1999/404/en or in FR at 
+https://www.fedlex.admin.ch/eli/cc/1999/404/fr)
+- Loi fédérale sur l’égalité entre femmes et hommes (Loi sur l’égalité, Leg (1995)) (Federal Gender Equality 
+Act (1995)) (Prohibits gender discrimination in employment; guarantees equal pay and equal access to 
+continuing education and training. See arts. 3 and 14.) (Available in EN at 
+https://www.fedlex.admin.ch/eli/cc/1996/1498_1498_1498/en or in FR at 
+https://www.fedlex.admin.ch/eli/cc/1996/1498_1498_1498/fr).
+- Amendments to the Swiss Federal Gender Equality Act that came into force in July 2020 require gender pay gap analyses for companies with 100+ employees
+
+===
 
 ## 1.3 Can the same human right be written in more than one place?
 

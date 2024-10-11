@@ -27,7 +27,7 @@ Image : Photo ONU / Jean-Marc Ferré. L'image montre les drapeaux des pays à l'
 
 Pouvez-vous citer quelques droits humains qui vous viennent à l'esprit ?
 
----
+===
 
 ## 1.2 Où sont écrits les droits humains ?
 
@@ -38,6 +38,55 @@ Pouvez-vous citer quelques droits humains qui vous viennent à l'esprit ?
 * Politiques des employeurs
 
 ---
+
+# Tchéquie
+
+- Constitution de la République tchèque (1993) (https://www.psp.cz/en/docs/laws/constitution.html)
+- Charte des droits et libertés fondamentaux (1993) (Égalité devant la loi) (Voir art. 1 et 3)
+- Loi anti-discrimination (2009) (Égalité de traitement dans l'éducation, l'emploi et la sécurité sociale)
+(https://www.zakonyprolidi.cz/cs/2009-198)
+- Loi sectorielle sur l'éducation (2004) https://www.zakonyprolidi.cz/cs/2004-561- Loi sectorielle sur l'emploi (2006)
+https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/74435/76709/F-983979123/CZE74435 Cze.pdf- Stratégie gouvernementale pour l'égalité des femmes et des hommes pour 2021-2030 Ressource supplémentaire : https://eige.europa.eu/gender-mainstreaming/countries/czechia --- # France - Constitution de la Cinquième République (1958) (FR : https://www.conseil-constitutionnel.fr/le-bloc-de- constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur ; EN : https://www.conseil- constitutionnel.fr/sites/default/files/as/root/bank_mm/anglais/ constitution_anglais.pdf) - LOI n° 2021-1774 du 24 décembre 2021 visant à accélérer l'égalité économique et professionnelle (Loi relative à l'égalité économique et professionnelle entre les femmes et les hommes 2021) (https://perma.cc/Q4UK-673Q) (Voir aussi
+https://www.loc.gov/item/global-legal-monitor/2022-01-23/france-law-on-nomic-and-professional-gender-quality-adopted/) - LOI n° 2014-873 du 4 août 2014 pour l'égalité réelle entre les femmes et les hommes ((Loi sur l'égalité des sexes (2014), art. 2-26 (la vie professionnelle) ( https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000029330832)
+Ressources complémentaires :
+https://travail-emploi.gouv.fr/index-de-legalite-professionnelle-calcul-et-questionsreponses
+https://eige.europa.eu/gender-mainstreaming/countries/france
+
+---
+
+# Allemagne
+
+- Loi fondamentale de la République fédérale d'Allemagne (1949) (art. 3 (égalité) (https://www.gesetze-im-internet.de/englisch_gg/)
+- (Allgemeines Gleichbehandlungsgesetz – AGG) (Loi générale sur l'égalité de traitement) (2006) - Interdit la discrimination en matière d'emploi et d'éducation fondée sur le sexe
+(https://www.gesetze-im-internet.de/englisch_agg/englisch_agg.html)
+Ressource supplémentaire : https://eige.europa.eu/gender-mainstreaming/countries/germany
+
+---
+
+# Italie
+
+- Constitution de la République italienne (1948) (articles 3 (Égalité), 34 (Éducation)
+(https://www.senato.it/documenti/repository/istituzione/costituzione_inglese.pdf)
+- Code de l'égalité des chances entre les hommes et les femmes (2006) (décret législatif n° 198 de 2006)
+((Garantit l'égalité des chances en matière d'éducation, d'emploi et de droits sociaux)
+- Stratégie globale axée sur l'égalité des sexes, « la Stratégie nationale pour l'égalité des sexes » 2021-2026
+(Strategia nazionale per la parità di genere) (juillet 2021)
+- Loi 162/2021 modifiant le Code italien de l'égalité des chances (décret législatif 198/2006)
+- Ressources supplémentaires :
+https://eige.europa.eu/gender-mainstreaming/countries/italy?language_content_entity=en
+https://www.lexology.com/library/detail.aspx?g=26fe1e91-0c7e-4c24-8b61-9e8b2ce4da07
+
+
+---
+
+# Suisse
+
+- Constitution fédérale suisse (1999) (art. 8 (Égalité), art. 19 (Éducation)) (disponible en EN sur https://www.fedlex.admin.ch/eli/cc/1999/404/en ou en FR sur https://www.fedlex.admin.ch/eli/cc/1999/404/fr) - Loi fédérale sur l'égalité entre femmes et hommes (Loi sur l'égalité, Leg (1995)) (Loi fédérale sur l'égalité entre les femmes et les hommes (1995)) (Interdit la discrimination dans l'emploi; garantit l'égalité de rémunération et l'égalité d'accès à la formation continue Voir art.
+https://www.fedlex.admin.ch/eli/cc/1996/1498_1498_1498/fr).
+- Les modifications de la loi fédérale sur l'égalité entre femmes et hommes, entrées en vigueur en juillet 2020, imposent des analyses des écarts salariaux entre les sexes pour les entreprises de plus de 100 salariés
+
+
+===
 
 ## 1.3 Le même droit humain peut-il être écrit à plus d'un endroit ?
 
