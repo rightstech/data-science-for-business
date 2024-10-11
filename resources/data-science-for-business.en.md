@@ -103,6 +103,7 @@ Over time, we gained ten international human rights treaties following this decl
 ## 1.5Q1 Quiz: Do the words "agreement", "treaty", "convention" and "optional protocol" mean the same thing when we talk about human rights treaties?
 
 Are they all treaties?
+
 Please select an answer:
 
 <div class="poll" data-poll="treaties">
@@ -111,18 +112,7 @@ Please select an answer:
 	<button data-value="no">No</button>
 	<br>
 </div>
-<p style="font-size:24px;color:gray;">Responses: <span class="voters" data-poll="treaties">0</span></p>
-
----
-
-## 1.5Q1 Quiz
-
-<div style="position: relative;height:480px!important;width:1280px!important;">
-<canvas data-chart="bar" data-poll="treaties">
-, Yes, No
-, 0, 0
-</canvas>
-</div>
+<!-- <p style="font-size:24px;color:gray;">Responses: <span class="voters" data-poll="treaties">0</span></p> -->
 
 ---
 

@@ -110,18 +110,7 @@ Veuillez sélectionner une réponse :
 	<button data-value="no">Non</button>
 	<br>
 </div>
-<p style="font-size:24px;color:gray;">Réponses : <span class="voters" data-poll="treaties">0</span></p>
-
----
-
-## 1.5Q1 Quiz
-
-<div style="position: relative;height:480px!important;width:1280px!important;">
-<canvas data-chart="bar" data-poll="treaties">
-, Oui, Non
-, 0, 0
-</canvas>
-</div>
+<!-- <p style="font-size:24px;color:gray;">Réponses : <span class="voters" data-poll="treaties">0</span></p> -->
 
 ---
 
@@ -300,7 +289,7 @@ En Python, vous écrivez des commandes ou des instructions d'une manière que l'
   <button data-value="three">science, art, affaires... tout ce que vous voulez !</button>
 	<br>
 </div>
-<p style="font-size:24px;color:gray;">Réponses : <span class="voters" data-poll="pythonuse">0</span></p>
+<!-- <p style="font-size:24px;color:gray;">Réponses : <span class="voters" data-poll="pythonuse">0</span></p> -->
 
 ---
 
@@ -314,7 +303,7 @@ En Python, vous écrivez des commandes ou des instructions d'une manière que l'
   <button data-value="three">Parce que les scientifiques lui font confiance.</button>
 	<br>
 </div>
-<p style="font-size:24px;color:gray;">Réponses : <span class="voters" data-poll="somany">0</span></p>
+<!-- <p style="font-size:24px;color:gray;">Réponses : <span class="voters" data-poll="somany">0</span></p> -->
 
 
 ===
