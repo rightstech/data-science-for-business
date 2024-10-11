@@ -1,4 +1,15 @@
-## 1 Human Rights and Women in STEM
+## Welcome to CERN IdeaSquare
+
+![IdeaSquare](./images/ideasquare.png)
+
+* A word about safety
+* Stairs access
+* Facilities
+* Break
+
+===
+
+## 1. Human Rights and Women in STEM
 
 <img alt="Advancing Women in Tech Leadership" src="/images/visual.png" width="80%">
 
@@ -15,15 +26,17 @@ Image: UN Photo / Jean-Marc Ferré. The picture shows the flags of countries at 
 
 ### 1.1Q1 Quiz: What are examples of human rights?
 
-Please list some human rights that come to your mind. Open answers.
+Can you list some human rights that come to your mind ?
 
 ---
 
 ## 1.2 Where are human rights written down?
 
-![Czech Constitution](./images/1_2_Sbírka_zákonů_1993_částka_001_strana_01.png)
-
-Image: Czech National Council - Official Copy of the Collection of Laws, Public Domain. The image shows the cover of the Czech constitution.
+* National constitutions
+* Equality legislation
+* Sector-specific legislation
+* National strategies
+* Employer policies
 
 ---
 
@@ -126,7 +139,12 @@ https://treaties.un.org/Pages/ParticipationStatus.aspx?clang=_en
 
 The mentioned human rights and key treaties also apply to girls and women in STEM.
 Governments are updating how they provide education to prepare everyone for today's jobs, and that means girls and women too.
-Important rights are in human rights treaties and also in our national laws, such as
+
+---
+
+## 1.6 How do we apply existing human rights treaties to girls and women in STEM?
+
+Important rights are in human rights treaties and also in our national laws, such as :
 * Equality – you will find this right in many, many places. And see CEDAW Articles 2, 10, 11 and 13.
 * Education – in most major human rights treaties.
 * Information – for example, the International Covenant on Civil and Political Rights, Article 19
@@ -163,29 +181,34 @@ Image: NASA / Adam Cuerden. The image shows Katherine Johnson at NASA in 1966.
 * This is important for today's work.
 * Women have been working and innovating in technology from the beginning.
 * It's normal for girls and women to learn more about programming and technology.
-* Let's see what you do with your new skills!
+* Let's see what you do with your new skills !
 
 ---
 
 ## Human Rights
 
-* UN Women - Czechia information: https://constitutions.unwomen.org/en/countries/europe/czech-republic
-* Outcome of the latest Universal Periodic Review of Czechia:
-  https://www.ohchr.org/en/news/2023/07/human-rights-council-adopts-universal-periodic-review-outcomes-czech-republic
-* Universal Periodic Review - Czechia: https://www.ohchr.org/en/hr-bodies/upr/cz-index
-* Report of the UPR Working Group: https://undocs.org/en/A/HRC/53/4
-* Decision of the outcome: https://undocs.org/en/A/HRC/DEC/53/101
-* Report of the Working Group: http://undocs.org/en/A/HRC/53/4
-* Which UPR recommendations were accepted by Czechia: http://undocs.org/en/A/HRC/53/4/Add.1 and http://undocs.org/en/A/HRC/53/2
+#### Outcomes of countries’ last ‘Universal Periodic Review’ at the UN in Geneva
 
+* France: https://www.ohchr.org/en/hr-bodies/upr/fr-index
+* Switzerland: https://www.ohchr.org/en/hr-bodies/upr/ch-index
+* Germany: https://www.ohchr.org/en/hr-bodies/upr/de-index
+* Italy: https://www.ohchr.org/en/hr-bodies/upr/it-index
+* Czechia: https://www.ohchr.org/en/hr-bodies/upr/cz-index
 
 ===
 
-# 2 Introduction to Data Analysis
+# 2. Introduction to Data Analysis
 
 ---
 
 ## 2.1 Data Everywhere
+
+![Data in science](./images/2_1_data-in-science.png)
+
+
+---
+
+## 2.1 Data Everywhere (2)
 
 ![NASA Satellite collecting data](./images/2_1_GPS_Satellite_NASA_art-iif.jpg)
 
@@ -195,7 +218,7 @@ Image credit : Wikimedia project.
 
 ---
 
-## 2.1 Data Everywhere (2)
+## 2.1 Data Everywhere (3)
 
 ![Smartphone](./images/2_1_Smartphone-mobile-hand.jpg)
 
@@ -219,21 +242,13 @@ Image credit : Wikimedia project.
 
 ---
 
-## 2.3 A Resource That Must Be Protected (2)
-
-![Equifax](./images/2_3_identity_theft.jpg)
-
-Image credit : Wikimedia project.
-
----
-
 ## 2.4 Why Are We Here Today?
 
 <img alt="Advancing Women in Tech Leadership" src="/images/visual.png" width="80%">
 
 ===
 
-# 3 Python for Data Analysis
+# 3. Python for Data Analysis
 
 ---
 
@@ -245,7 +260,10 @@ Image credit : Wikimedia project.
 
 ![Python](./images/python.png)
 
-In Python, you write commands or instructions in a way that the computer understands. It then follows these instructions and responds accordingly. It's a bit like giving the computer a list of tasks. It can make decisions and repeat tasks.
+* In Python, you write commands or instructions in a way that the computer understands.
+* It then follows these instructions and responds accordingly. 
+* It's like giving the computer a list of tasks. 
+* It can make decisions and repeat tasks.
 
 ---
 
@@ -269,7 +287,7 @@ In Python, you write commands or instructions in a way that the computer underst
 
 ### 3.1.3 It's Your Power
 
-* In short, Python allows you to do great things with a computer, whether you're organizing files, creating art, or diving into new adventures. 
+* In short, Python allows you to do great things with a computer, whether you're organizing files and data, creating art, or hatching your next science project. 
 * It's a tool that unlocks your creativity and allows you to make technology work for you.
 
 ===
@@ -288,18 +306,8 @@ In Python, you write commands or instructions in a way that the computer underst
   <button data-value="three">science, art, business... anything you want!</button>
 	<br>
 </div>
-<p style="font-size:24px;color:gray;">Responses: <span class="voters" data-poll="pythonuse">0</span></p>
+<!-- <p style="font-size:24px;color:gray;">Responses: <span class="voters" data-poll="pythonuse">0</span></p> -->
 
----
-
-## 3.2Q1 What Can You Do with Python?
-
-<div style="position: relative;height:480px!important;width:1280px!important;">
-<canvas data-chart="bar" data-poll="pythonuse">
-, scientific work, buy first, anything you want
-, 0, 0, 0
-</canvas>
-</div>
 
 ---
 
@@ -313,18 +321,8 @@ In Python, you write commands or instructions in a way that the computer underst
   <button data-value="three">Because scientists trust it.</button>
 	<br>
 </div>
-<p style="font-size:24px;color:gray;">Responses: <span class="voters" data-poll="somany">0</span></p>
+<!-- <p style="font-size:24px;color:gray;">Responses: <span class="voters" data-poll="somany">0</span></p> -->
 
----
-
-## 3.2Q2 Why Can So Many People in the World Use Python?
-
-<div style="position: relative;height:480px!important;width:1280px!important;">
-<canvas data-chart="bar" data-poll="somany">
-, simple and accessible, belongs to everyone, scientists trust it
-, 0, 0, 0
-</canvas>
-</div>
 
 ===
 
@@ -403,70 +401,19 @@ contact =
 
 ===
 
-## 3.3 Questions About Data in Python
-
----
-
-### 3.3Q1 What method would a Python list use if it wanted to invite a new friend to join the group?
-
-<div class="poll" data-poll="party">
-	<button data-value="one">party_guest_list.extend(new_friend)</button>
-	<br>
-	<button data-value="two">party_guest_list.import(new_friend)</button>
-	<br>
-  <button data-value="three">party_guest_list.append(new_friend)</button>
-	<br>
-</div>
-<p style="font-size:24px;color:gray;">Responses: <span class="voters" data-poll="party">0</span></p>
-
----
-
-## 3.2Q1 What method would a Python list use
-
-<div style="position: relative;height:480px!important;width:1280px!important;">
-<canvas data-chart="bar" data-poll="party">
-, extend, import, append
-, 0, 0, 0
-</canvas>
-</div>
-
----
-
-### 3.3Q2 If a Python dictionary were a book, what would the keys be equivalent to?
-
-<div class="poll" data-poll="dictio">
-	<button data-value="one">Chapter titles</button>
-	<br>
-	<button data-value="two">Page numbers</button>
-	<br>
-  <button data-value="three">Table of contents</button>
-	<br>
-</div>
-<p style="font-size:24px;color:gray;">Responses: <span class="voters" data-poll="dictio">0</span></p>
-
----
-
-### 3.3Q2 If a Python dictionary were a book, what would the keys be equivalent to?
-
-<div style="position: relative;height:480px!important;width:1280px!important;">
-<canvas data-chart="bar" data-poll="dictio">
-, Chapter titles, Page numbers, Table of contents
-, 0, 0, 0
-</canvas>
-</div>
-
----
 
 ## 3.4 Libraries in Python
+
+#### Libraries are like special tools in a toolbox
 
 * Pandas : A library that specializes in storing and transforming data.
 * Matplotlib : A library that can transform data into graphs to make numerical results more attractive.
 * Seaborn : A library that enhances Matplotlib to represent statistical data and more easily identify interesting information.
 
 ```python
-import pandas as pd
-import matplotlib.pyplot as plot
-import seaborn as sns
+import pandas
+import matplotlib.pyplot
+import seaborn
 ```
 
 ---
@@ -484,14 +431,14 @@ import seaborn as sns
 #### 3.5.1.1 DataFrame (1)
 
 
-You can create a DataFrame with a dictionary assigning a name to a list of values:
+You can create a **DataFrame** with a dictionary assigning a name to a list of values:
 
 ```python
 import pandas
 
 data = {'Name': ['Alice', 'Bob', 'Charlie'],
         'Age': [25, 30, 35],
-        'City': ['Prague', 'Brno', 'Hradec Králové']}
+        'City': ['Paris', 'London', 'Berlin']}
 
 df = pandas.DataFrame(data)
 print(df)
@@ -516,7 +463,9 @@ print(df)
 
 ### 3.6.1 What are they used for?
 
-Matplotlib and Seaborn are two Python **libraries** for data visualization that make it easy to create attractive and informative statistical graphics. Both work well with Pandas DataFrames and simplify the process of creating graphs or other types of diagrams.
+* Matplotlib and Seaborn are two Python **libraries** for data visualization that make it easy to create attractive and informative statistical graphics.
+
+* Both work well with Pandas DataFrames and simplify the process of creating graphs or other types of diagrams.
 
 ---
 
@@ -526,15 +475,12 @@ Matplotlib and Seaborn are two Python **libraries** for data visualization that 
 # Creating a Pandas DataFrame
 data = {'Name': ['Alice', 'Bob', 'Charlie'],
          'Age': [25, 30, 35],
-         'City': ['Prague', 'Brno', 'Hradec Králové'],
-         'Salary': [50000, 60000, 70000]}
-dataframe = pandas.DataFrame(data)
+         'City': ['London', 'Paris', 'Berlin'],
+         'Salary': [70000, 65000, 50000]}
+dataframe = pd.DataFrame(data)
 # Seaborn Example - Bar Plot
-seaborn.barplot(x='Name', y='Salary', data=dataframe, palette='viridis')
-plot.title('Employee Salary Information')
-plot.xlabel('Employee Name')
-plot.ylabel('Salary')
-plot.show()
+plot = sns.barplot(x='Name', y='Salary', data=dataframe, palette='viridis')
+plot.set(title='Employee Salary Information', xlabel='Employee Name', ylabel= 'Salary')
 ```
 
 ---
@@ -545,13 +491,13 @@ plot.show()
 
 ===
 
-## 4 Exercise - Titanic Case Study
+## 4. Exercise - Titanic Case Study
 
 [https://rightstech.github.io/tutorial](https://rightstech.github.io/tutorial)
 
 ===
 
-## 5 How to Continue Learning?
+## 5. How to Continue Learning?
 
 ---
 
@@ -563,7 +509,7 @@ plot.show()
 
 ===
 
-# 6 Questions and Answers: Discussion on Mentorship
+# 6. Questions and Answers: Discussion on Mentorship
 
 Tips from our trainers
 * My educational journey
@@ -573,12 +519,14 @@ What are your questions for our trainers?
 
 ===
 
-# 7 RightsTech Women on LinkedIn
+# 7. RightsTech Women on LinkedIn
 https://linkedin.com/company/rightstech-women
 
 ===
 
-# 8 Evaluation Form
+# 8. Evaluation Form
 Please visit the link that your trainers will show you and fill out the evaluation form.
 
-![Evaluation Form QR Code](./images/evaluation_bit.ly.png)
+https://bit.ly/3YlKlj8
+
+<img alt="Evaluation Form QR Code" src="./images/bit.ly_3YlKlj8.png" width="40%">

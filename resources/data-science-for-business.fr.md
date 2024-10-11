@@ -1,10 +1,21 @@
-## 1 Les Droits de l'Homme et les Femmes dans les STEM
+## Bienvenue à CERN IdeaSquare
+
+![IdeaSquare](./images/ideasquare.png)
+
+* Un mot sur la sécurité
+* Accès aux escaliers
+* Les installations
+* Pause café
+
+===
+
+## 1. Les droits des femmes dans les STIM
 
 <img alt="Faire progresser les femmes dans le leadership technologique" src="/images/visual.png" width="80%">
 
 ---
 
-## 1.1 Que sont les droits de l'homme ?
+## 1.1 Que sont les droits humains ?
 
 ![Déclaration de l'ONU](./images/1_1_UN7338882_78d_.jpg)
 
@@ -12,24 +23,26 @@ Image : Photo ONU / Jean-Marc Ferré. L'image montre les drapeaux des pays à l'
 
 ---
 
-### 1.1Q1 Quiz : Quels sont des exemples de droits de l'homme ?
+### 1.1Q1 Quiz : Quels sont des exemples de droits humains ?
 
-Veuillez énumérer quelques droits de l'homme qui vous viennent à l'esprit. Réponses ouvertes.
-
----
-
-## 1.2 Où sont écrits les droits de l'homme ?
-
-![Constitution tchèque](./images/1_2_Sbírka_zákonů_1993_částka_001_strana_01.png)
-
-Image : Conseil national tchèque - Copie officielle du Recueil des lois, Domaine public. L'image montre la couverture de la constitution tchèque.
+Pouvez-vous citer quelques droits humains qui vous viennent à l'esprit ?
 
 ---
 
-## 1.3 Le même droit de l'homme peut-il être écrit à plus d'un endroit ?
+## 1.2 Où sont écrits les droits humains ?
 
-* Absolument ! Vous pouvez souvent trouver le même droit de l'homme à plus d'un endroit.
-* Le même droit peut être placé dans plus d'un traité des droits de l'homme.
+* Constitutions nationales
+* Législation sur l'égalité
+* Législation sectorielle collectives
+* Stratégies nationales
+* Politiques des employeurs
+
+---
+
+## 1.3 Le même droit humain peut-il être écrit à plus d'un endroit ?
+
+* Absolument ! Vous pouvez souvent trouver le même droit humain à plus d'un endroit.
+* Le même droit peut être placé dans plus d'un traité des droits humains.
 * Ce droit peut également se trouver dans plus d'une loi nationale en même temps.
 
 ---
@@ -42,9 +55,9 @@ Image : Conseil national tchèque - Copie officielle du Recueil des lois, Domain
 
 ===
 
-### 1.4 Comment les droits de l'homme sont-ils liés aux femmes dans les STEM ?
+### 1.4 Comment les droits humains sont-ils liés aux femmes dans les STIM ?
 
-![STEM](./images/1_4_pexels-thisisengineering-3861457.jpg)
+![STIM](./images/1_4_pexels-thisisengineering-3861457.jpg)
 
 Image : Photographie de Thisisengineering, Pexels
 
@@ -59,24 +72,24 @@ Les gouvernements modifient maintenant leurs programmes éducatifs car ils réal
 
 ---
 
-## 1.5 Quels sont certains des principaux traités des Nations Unies sur les droits de l'homme ?
+## 1.5 Quels sont certains des principaux traités des Nations Unies sur les droits humains ?
 
-![Traités des droits de l'homme](./images/1_5_UN7499124_aa9_.jpg)
+![Traités des droits humains](./images/1_5_UN7499124_aa9_.jpg)
 
-Image : Photo ONU, Marvin Bolotsky. L'image montre la présidente de la Commission, Mme Eleanor Roosevelt (à droite) avec Mme Hansa Mehta de l'Inde à la Commission des droits de l'homme de l'ONU, 1949.
+Image : Photo ONU, Marvin Bolotsky. L'image montre la présidente de la Commission, Mme Eleanor Roosevelt (à droite) avec Mme Hansa Mehta de l'Inde à la Commission des droits humains de l'ONU, 1949.
 
 ---
 
-### 1.5.1 Déclaration universelle des droits de l'homme (DUDH), 10 décembre 1948.
+### 1.5.1 Déclaration universelle des droits humains (DUDH), 10 décembre 1948.
 
-Tout d'abord, l'ONU a émis une déclaration. Par la suite, la Seconde Guerre mondiale a lancé les choses dans le système international moderne des droits de l'homme.
+Tout d'abord, l'ONU a émis une déclaration. Par la suite, la Seconde Guerre mondiale a lancé les choses dans le système international moderne des droits humains.
 C'était une déclaration, pas un traité. Mais même cela est maintenant considéré comme du droit international.
 Les pays ont décidé qu'ils ne voulaient plus jamais que les atrocités qui se sont produites pendant la Seconde Guerre mondiale se répètent.
-Au fil du temps, nous avons obtenu dix traités internationaux sur les droits de l'homme à la suite de cette déclaration.
+Au fil du temps, nous avons obtenu dix traités internationaux sur les droits humains à la suite de cette déclaration.
 
 ---
 
-### 1.5.2 Quelques traités importants sur les droits de l'homme pour le sujet des femmes dans les STEM sont :
+### 1.5.2 Quelques traités importants sur les droits humains pour le sujet des femmes dans les STIM sont :
 
 * 1966 – Pacte relatif aux droits civils et politiques, PIDCP et ses deux protocoles facultatifs
 * 1966 – Pacte international relatif aux droits économiques, sociaux et culturels, PIDESC
@@ -86,7 +99,7 @@ Au fil du temps, nous avons obtenu dix traités internationaux sur les droits de
 
 ---
 
-## 1.5Q1 Quiz : Les mots "accord", "traité", "convention" et "protocole facultatif" signifient-ils la même chose lorsque nous parlons des traités sur les droits de l'homme ?
+## 1.5Q1 Quiz : Les mots "accord", "traité", "convention" et "protocole facultatif" signifient-ils la même chose lorsque nous parlons des traités sur les droits humains ?
 
 Sont-ils tous des traités ?
 Veuillez sélectionner une réponse :
@@ -112,7 +125,7 @@ Veuillez sélectionner une réponse :
 
 ---
 
-### 1.5.3 Comment savoir si mon gouvernement s'est engagé à garantir les droits contenus dans un traité particulier sur les droits de l'homme ?
+### 1.5.3 Comment savoir si mon gouvernement s'est engagé à garantir les droits contenus dans un traité particulier sur les droits humains ?
 
 Vous pouvez voir ici où sont suivies les ratifications officielles des traités de l'ONU par les pays individuels :
 
@@ -120,15 +133,20 @@ https://treaties.un.org/Pages/ParticipationStatus.aspx?clang=_en
 
 ===
 
-## 1.6 Comment appliquons-nous les traités existants sur les droits de l'homme aux filles et aux femmes dans les STEM ?
+## 1.6 Comment appliquons-nous les traités existants sur les droits humains aux filles et aux femmes dans les STIM ?
 
-Les droits de l'homme mentionnés et les traités clés s'appliquent également aux filles et aux femmes dans les STEM.
-Les gouvernements mettent à jour la manière dont ils dispensent l'éducation pour préparer tout le monde aux emplois d'aujourd'hui, et cela inclut les filles et les femmes.
-Des droits importants sont dans les traités sur les droits de l'homme et aussi dans nos lois nationales, tels que
-* L'égalité – vous trouverez ce droit dans de nombreux, nombreux endroits. Et voir les articles 2, 10, 11 et 13 de la CEDAW.
-* L'éducation – dans la plupart des principaux traités sur les droits de l'homme.
-* L'information – par exemple, le Pacte international relatif aux droits civils et politiques, article 19
-* Le droit à la science – voir le Pacte des Nations Unies relatif aux droits économiques, sociaux et culturels, article 15
+Les droits humains mentionnés et les traités clés s'appliquent également aux filles et aux femmes dans les STIM.<br>
+Les gouvernements actualisent la manière dont ils dispensent l'éducation pour préparer leur population aux emplois d'aujourd'hui, et cela inclut les filles et les femmes.
+
+---
+
+## 1.6 Comment appliquons-nous les traités existants sur les droits humains aux filles et aux femmes dans les STIM ?
+
+Des droits importants sont dans les traités sur les droits humains et aussi dans nos lois nationales, tels que :
+* L'égalité – vous trouverez ce droit dans de nombreux endroits. Par exemple les articles 2, 10, 11 et 13 de la CEDAW.
+* L'éducation – dans la plupart des principaux traités sur les droits humains.
+* L'information – par exemple, le Pacte international relatif aux droits civils et politiques, article 19.
+* L'accès à la science – voir le Pacte des Nations Unies relatif aux droits économiques, sociaux et culturels, article 15.
 
 ===
 
@@ -154,30 +172,35 @@ Image : NASA / Adam Cuerden. L'image montre Katherine Johnson à la NASA en 1966
 
 ---
 
-## 1.8 Conclusion : Les Droits de l'Homme et les Femmes dans les STEM
+## 1.8 Conclusion : Les droits humains et les Femmes dans les STIM
 
 * Les droits à l'égalité et à l'éducation signifient que les filles et les femmes ont le même droit d'apprendre et d'utiliser la technologie.
 * C'est important pour le travail d'aujourd'hui.
-* Les femmes travaillent et innovent dans la technologie depuis le début.
+* Les femmes travaillent et innovent dans la technologie depuis ses débuts.
 * Il est normal pour les filles et les femmes d'en apprendre davantage sur la programmation et la technologie.
 * Voyons ce que vous ferez avec vos nouvelles compétences !
 
 ---
 
-## Droits de l'Homme
+## Droits Humains
 
-* Informations UN Women - Tchéquie : https://constitutions.unwomen.org/en/countries/europe/czech-republic
-* Résultat du dernier Examen périodique universel de la Tchéquie :
-  https://www.ohchr.org/en/news/2023/07/human-rights-council-adopts-universal-periodic-review-outcomes-czech-republic
-* Examen périodique universel - Tchéquie : https://www.ohchr.org/en/hr-bodies/upr/cz-index
-* Rapport du Groupe de travail de l'EPU : https://undocs.org/en/A/HRC/53/4
-* Décision sur le résultat : https://undocs.org/en/A/HRC/DEC/53/101
-* Rapport du Groupe de travail : http://undocs.org/en/A/HRC/53/4
-* Quelles recommandations de l'EPU ont été acceptées par la Tchéquie : http://undocs.org/en/A/HRC/53/4/Add.1 et http://undocs.org/en/A/HRC/53/2
+#### Résultats du dernier « Examen périodique universel » des pays à l’ONU à Genève
+
+* France: https://www.ohchr.org/en/hr-bodies/upr/fr-index
+* Suisse: https://www.ohchr.org/en/hr-bodies/upr/ch-index
+* Allemagne: https://www.ohchr.org/en/hr-bodies/upr/de-index
+* Italie: https://www.ohchr.org/en/hr-bodies/upr/it-index
+* République Tchèque: https://www.ohchr.org/en/hr-bodies/upr/cz-index
 
 ===
 
-# 2 Introduction à l'Analyse de Données
+# 2. Introduction à l'Analyse de Données
+
+---
+
+## 2.1 Des Données Partout
+![Data in science](./images/2_1_data-in-science.png)
+
 
 ---
 
@@ -199,7 +222,7 @@ Crédit image : Projet Wikimedia.
 
 ---
 
-## 2.2 Les Données et les Droits de l'Homme
+## 2.2 Les Données et les droits humains
 
 ![Cambridge Analytica](/images/2_2_Brexit_Trump.jpg)
 
@@ -207,19 +230,12 @@ Crédit image : Projet Wikimedia.
 
 ---
 
-## 2.3 Une Ressource Qui Doit Être Protégée
+## 2.3 Une Ressource qui doit être protégée
 
 ![Fuite de données Strava](/images/2_3_strava.png)
 
 Crédit image : Projet Wikimedia.
 
----
-
-## 2.3 Une Ressource Qui Doit Être Protégée (2)
-
-![Equifax](/images/2_3_identity_theft.jpg)
-
-Crédit image : Projet Wikimedia.
 
 ---
 
@@ -265,7 +281,7 @@ En Python, vous écrivez des commandes ou des instructions d'une manière que l'
 
 ### 3.1.3 C'est Votre Pouvoir
 
-* En bref, Python vous permet de faire de grandes choses avec un ordinateur, que vous organisiez des fichiers, créiez de l'art ou plongiez dans de nouvelles aventures. 
+* En bref, Python vous permet de faire de grandes choses avec un ordinateur, que vous organisiez des fichiers et des données, créiez de l'art ou élaboriez votre prochain projet scientifique.
 * C'est un outil qui libère votre créativité et vous permet de faire travailler la technologie pour vous.
 
 ===
@@ -288,17 +304,6 @@ En Python, vous écrivez des commandes ou des instructions d'une manière que l'
 
 ---
 
-## 3.2Q1 Que Pouvez-Vous Faire avec Python ?
-
-<div style="position: relative;height:480px!important;width:1280px!important;">
-<canvas data-chart="bar" data-poll="pythonuse">
-, travail scientifique, acheter d'abord, tout ce que vous voulez
-, 0, 0, 0
-</canvas>
-</div>
-
----
-
 ### 3.2Q2 Pourquoi Tant de Personnes dans le Monde Peuvent-Elles Utiliser Python ?
 
 <div class="poll" data-poll="somany">
@@ -311,16 +316,6 @@ En Python, vous écrivez des commandes ou des instructions d'une manière que l'
 </div>
 <p style="font-size:24px;color:gray;">Réponses : <span class="voters" data-poll="somany">0</span></p>
 
----
-
-## 3.2Q2 Pourquoi Tant de Personnes dans le Monde Peuvent-Elles Utiliser Python ?
-
-<div style="position: relative;height:480px!important;width:1280px!important;">
-<canvas data-chart="bar" data-poll="somany">
-, simple et accessible, appartient à tout le monde, les scientifiques lui font confiance
-, 0, 0, 0
-</canvas>
-</div>
 
 ===
 
@@ -331,7 +326,7 @@ En Python, vous écrivez des commandes ou des instructions d'une manière que l'
 ### 3.3.1 Variables
 
 ```python
-nombre_prefere = 5
+nombre_favori = 5
 ```
 
 ---
@@ -340,10 +335,10 @@ nombre_prefere = 5
 
 
 ```python
-nombre_prefere = 7
+nombre_favori = 7
 ```
 
-Maintenant ```nombre_prefere``` contient 7 au lieu de 5.
+Maintenant ```nombre_favori``` contient 7 au lieu de 5.
 
 ---
 
@@ -366,7 +361,7 @@ Vous pouvez facilement ajouter des éléments à la liste :
 ```python
 fruits.append('raisin')
 print(fruits)
-# Sortie : ['pomme', 'banane', 'orange', 'raisin']
+# résultat : ['pomme', 'banane', 'orange', 'raisin']
 ```
 
 ---
@@ -379,7 +374,7 @@ ou les supprimer :
 fruits = ['pomme', 'banane', 'orange', 'raisin']
 fruits.remove('banane')
 print(fruits)
-# Sortie : ['pomme', 'orange', 'raisin']
+# résultat : ['pomme', 'orange', 'raisin']
 ```
 
 ---
@@ -391,67 +386,13 @@ Par exemple, une liste de contacts en Python pourrait être un dictionnaire :
 ```python
 contact =
 {
-   'Nom': 'Jean'
-  ,'email': 'jean@email.com'
+   'nom': 'Lucie'
+  ,'email': 'Lucie@email.com'
   ,'téléphone': '123-456-7890'
 }
 ```
 
 ===
-
-## 3.3 Questions sur les Données en Python
-
----
-
-### 3.3Q1 Quelle méthode une liste Python utiliserait-elle si elle voulait inviter un nouvel ami à rejoindre le groupe ?
-
-<div class="poll" data-poll="party">
-	<button data-value="one">liste_invites_soiree.extend(nouvel_ami)</button>
-	<br>
-	<button data-value="two">liste_invites_soiree.import(nouvel_ami)</button>
-	<br>
-  <button data-value="three">liste_invites_soiree.append(nouvel_ami)</button>
-	<br>
-</div>
-<p style="font-size:24px;color:gray;">Réponses : <span class="voters" data-poll="party">0</span></p>
-
----
-
-## 3.3Q1 Quelle méthode une liste Python utiliserait-elle
-
-<div style="position: relative;height:480px!important;width:1280px!important;">
-<canvas data-chart="bar" data-poll="party">
-, extend, import, append
-, 0, 0, 0
-</canvas>
-</div>
-
----
-
-### 3.3Q2 Si un dictionnaire Python était un livre, à quoi correspondraient les clés ?
-
-<div class="poll" data-poll="dictio">
-	<button data-value="one">Titres de chapitres</button>
-	<br>
-	<button data-value="two">Numéros de pages</button>
-	<br>
-  <button data-value="three">Table des matières</button>
-	<br>
-</div>
-<p style="font-size:24px;color:gray;">Réponses : <span class="voters" data-poll="dictio">0</span></p>
-
----
-
-### 3.3Q2 Si un dictionnaire Python était un livre, à quoi correspondraient les clés ?
-
-<div style="position: relative;height:480px!important;width:1280px!important;">
-<canvas data-chart="bar" data-poll="dictio">
-, Titres de chapitres, Numéros de pages, Table des matières
-, 0, 0, 0
-</canvas>
-</div>
-
----
 
 ## 3.4 Bibliothèques en Python
 
@@ -460,9 +401,9 @@ contact =
 * Seaborn : Une bibliothèque qui améliore Matplotlib pour représenter les données statistiques et identifier plus facilement les informations intéressantes.
 
 ```python
-import pandas as pd
-import matplotlib.pyplot as plot
-import seaborn as sns
+import pandas
+import matplotlib.pyplot
+import seaborn
 ```
 
 ---
@@ -479,14 +420,14 @@ import seaborn as sns
 
 #### 3.5.1.1 DataFrame (1)
 
-Vous pouvez créer un DataFrame avec un dictionnaire assignant un nom à une liste de valeurs :
+Vous pouvez créer un **DataFrame** avec un dictionnaire assignant un nom à une liste de valeurs :
 
 ```python
 import pandas
 
 donnees = {'Nom': ['Alice', 'Bob', 'Charlie'],
         'Age': [25, 30, 35],
-        'Ville': ['Prague', 'Brno', 'Hradec Králové']}
+        'Ville': ['Paris', 'London', 'Berlin']}
 
 df = pandas.DataFrame(donnees)
 print(df)
@@ -511,7 +452,8 @@ print(df)
 
 ### 3.6.1 À quoi servent-ils ?
 
-Matplotlib et Seaborn sont deux **bibliothèques** Python pour la visualisation de données qui facilitent la création de graphiques statistiques attrayants et informatifs. Les deux fonctionnent bien avec les DataFrames de Pandas et simplifient le processus de création de graphiques ou d'autres types de diagrammes.
+* Matplotlib et Seaborn sont deux **bibliothèques** Python pour la visualisation de données qui facilitent la création de graphiques statistiques attrayants et informatifs.
+* Elles fonctionnent bien avec les DataFrames de Pandas et simplifient le processus de création de graphiques ou d'autres types de diagrammes.
 
 ---
 
@@ -521,32 +463,29 @@ Matplotlib et Seaborn sont deux **bibliothèques** Python pour la visualisation 
 # Création d'un DataFrame Pandas
 donnees = {'Nom': ['Alice', 'Bob', 'Charlie'],
          'Age': [25, 30, 35],
-         'Ville': ['Prague', 'Brno', 'Hradec Králové'],
-         'Salaire': [50000, 60000, 70000]}
+         'Ville': ['London', 'Paris', 'Berlin'],
+         'Salaire': [70000, 65000, 50000]}
 dataframe = pandas.DataFrame(donnees)
-# Exemple Seaborn - Graphique à Barres
+# Exemple Seaborn - Histogramme
 seaborn.barplot(x='Nom', y='Salaire', data=dataframe, palette='viridis')
-plot.title('Informations sur les Salaires des Employés')
-plot.xlabel('Nom de l\'Employé')
-plot.ylabel('Salaire')
-plot.show()
+plot.set(title='Informations sur les Salaires des Employés',xlabel='Nom de l\'Employé', ylabel='Salaire')
 ```
 
 ---
 
 ### 3.6.2 Transformer les Données en Graphique
 
-![Graphique à barres Seaborn](./images/seaborn-diagram.png)
+![Histogramme Seaborn](./images/seaborn-diagram.png)
 
 ===
 
-## 4 Exercice - Étude de Cas Titanic
+## 4. Exercice - Étude de Cas sur le Titanic
 
 [https://rightstech.github.io/tutorial](https://rightstech.github.io/tutorial)
 
 ===
 
-## 5 Comment Continuer à Apprendre ?
+## 5. Comment Continuer à Apprendre ?
 
 ---
 
@@ -558,17 +497,18 @@ plot.show()
 
 ===
 
-# 6 Questions et Réponses : Discussion sur le Mentorat
+# 6. Questions et Réponses : Discussion sur le Mentorat
 
-Conseils de nos formateurs
+Conseils de nos formatrices :
 * Mon parcours éducatif
 * Mes brefs conseils pour réussir dans les études et le travail
 
-Quelles sont vos questions pour nos formateurs ?
+Quelles sont vos questions pour nos formatrices ?
 
 ===
 
-# 7 RightsTech Women sur LinkedIn
+# 7. RightsTech Women LinkedIn
+
 https://linkedin.com/company/rightstech-women
 
 ===
@@ -576,4 +516,6 @@ https://linkedin.com/company/rightstech-women
 # 8 Formulaire d'Évaluation
 Veuillez visiter le lien que vos formateurs vous montreront et remplir le formulaire d'évaluation.
 
-![Code QR du Formulaire d'Évaluation](./images/evaluation_bit.ly.png)
+https://bit.ly/3YlKlj8
+
+<img alt="Code QR du Formulaire d'Évaluation" src="./images/bit.ly_3YlKlj8.png" width="40%">

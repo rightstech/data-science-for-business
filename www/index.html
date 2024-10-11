@@ -69,8 +69,8 @@
 					<h1>Python for Business</h1>
 					<h2>RightsTech Women / CERN WIT</h2>
 					<p>CERN IdeaSquare - 12 October 2024</p>
-					<div id="qrcode"></div>
-					<p><a id="url"></a></p>
+					<!-- <div id="qrcode"></div>
+					<p><a id="url"></a></p> -->
 				</section>
 
 				<section data-markdown="/data-science-for-business.fr.md" data-separator="^\n===\n$" data-separator-vertical="^\n---\n$">
@@ -182,11 +182,11 @@
 					}
 
 				if ( !isConnected ) {
-				// hide all elements that 
-				var showOnConnected = document.querySelectorAll(".seminar.connected") || [];
-				for (var i=0; i < showOnConnected.length; i++) {
-					showOnConnected[i].style.display = 'none';
-				}
+					// hide all elements that 
+					var showOnConnected = document.querySelectorAll(".seminar.connected") || [];
+					for (var i=0; i < showOnConnected.length; i++) {
+						showOnConnected[i].style.display = 'none';
+					}
 				}
 
 			});
