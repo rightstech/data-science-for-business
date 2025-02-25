@@ -222,6 +222,8 @@ Ada Lovelace contributed to the first ideas about computer work.
 Image: NASA / Adam Cuerden. The image shows Katherine Johnson at NASA in 1966.
 
 ---
+## 1.7.2 Need for women in STEM
+
 
 ## 1.8 Conclusion: Human Rights and Women in STEM
 
