@@ -38,18 +38,6 @@ Can you list some human rights that come to your mind ?
 * National strategies
 * Employer policies
 
----
-
-# Czechia
-
-- Constitution of the Czech Republic (1993) (https://www.psp.cz/en/docs/laws/constitution.html)
-- Charter of Fundamental Rights and Freedoms (1993) (Equality before the law) (See arts. 1 and 3)
-- Anti-Discrimination Act (2009) (Equality of treatment in education, employment, and social security) 
-(https://www.zakonyprolidi.cz/cs/2009-198)
-- Sectoral law on education (2004) https://www.zakonyprolidi.cz/cs/2004-561- Sectoral law on employment (2006) 
-https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/74435/76709/F-983979123/CZE74435 Cze.pdf- Government Strategy for Equality of Women and Men for 2021–2030
-Additional resource:
-https://eige.europa.eu/gender-mainstreaming/countries/czechia
 
 ---
 
@@ -96,7 +84,7 @@ https://www.lexology.com/library/detail.aspx?g=26fe1e91-0c7e-4c24-8b61-9e8b2ce4d
 
 ---
 
-# Switzerland
+## Switzerland
 
 - Swiss Federal Constitution (1999) (art. 8 (Equality), art. 19 (Education)) (available in EN at 
 https://www.fedlex.admin.ch/eli/cc/1999/404/en or in FR at 
